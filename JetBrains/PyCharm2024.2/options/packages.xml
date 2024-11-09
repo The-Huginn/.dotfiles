@@ -1,0 +1,9 @@
+<application>
+  <component name="PyPackageService">
+    <option name="additionalRepositories">
+      <list>
+        <option value="https://download.pytorch.org/whl/cpu/" />
+      </list>
+    </option>
+  </component>
+</application>

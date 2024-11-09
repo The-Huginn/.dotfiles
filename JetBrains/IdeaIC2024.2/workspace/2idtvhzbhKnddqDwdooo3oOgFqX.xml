@@ -1,0 +1,164 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rixo-klappka-be" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2h576smp9u9is" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/legacy/EvaluationPackageMessage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/users/UserBankAccount.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 3,
+      "lastUsed": 1722431634824
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/legacy/EvaluationPackageMessage.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1722431634825" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.Tests in 'rixo-klappka-be.test'" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="rixo-klappka-be-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'rixo-klappka-be_test' - 2024.07.23 at 09h 48m 28s.xml">
+      <configuration name="Tests in 'rixo-klappka-be.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17578125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.31503463" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33029723" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.13307291" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.31503463" left="0.17578125" right="0.13307291" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom" timestamp="1721721483122">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center" timestamp="1721721483122">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.center/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left" timestamp="1721721483122">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.left/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right" timestamp="1721721483122">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.right/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state x="2543" y="228" width="672" height="713" key="search.everywhere.popup" timestamp="1722431634775">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="228" width="672" height="713" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1722431634775" />
+    <state x="2543" y="228" width="672" height="713" key="search.everywhere.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721720743733" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/legacy/EvaluationPackageMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/users/UserBankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

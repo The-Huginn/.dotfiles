@@ -1,0 +1,1163 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rixo-contracts" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backup" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:support" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:task" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2awgf2za2oqg8" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/listener/FirstInsurancePaymentPaidConsumerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"FirstInsurancePaymentPaidConsumerTest.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/internal/impl/DefaultContractUpdateInternalService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DefaultContractUpdateInternalService.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/internal/ContractUpdateInternalService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ContractUpdateInternalService.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-34,-46,-26,-50,-2,-1,-1,-1,-1,1,48,1]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/FirstInsurancePaymentPaidGreenCardDownloaderTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"FirstInsurancePaymentPaidGreenCardDownloaderTest.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/TempInsuranceCardMigrationItem.java">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TempInsuranceCardMigrationItem.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/contract/TempInsuranceCardMigrationItemRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TempInsuranceCardMigrationItemRepository.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-34,-46,-26,-50,-2,-1,-1,-1,-1,1,48,1]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/OneTimeInsuranceCardDownloadJob.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"OneTimeInsuranceCardDownloadJob.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/DefaultContractService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2728">
+              <caret line="239" column="18" selection-start-line="239" selection-start-column="18" selection-end-line="239" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DefaultContractService.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/service/impl/DefaultGreenCardQueueService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2244">
+              <caret line="141" column="23" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DefaultGreenCardQueueService.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/impl/ProductCatalogCachedMicroservice.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ProductCatalogCachedMicroservice.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/scheduling/DownloadGreenCardJobTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1232">
+              <caret line="85" column="14" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DownloadGreenCardJobTest.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/contract-download-on-first-payment-paid.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"contract-download-on-first-payment-paid.sql","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,70,10,20,102,105,108,101,84,121,112,101,115,47,99,117,115,116,111,109,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-96,-6,-105,-89,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/objects/InsuredObject.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"InsuredObject.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,78,10,23,110,111,100,101,115,47,97,98,115,116,114,97,99,116,67,108,97,115,115,46,115,118,103,18,29,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,65,98,115,116,114,97,99,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-41,-8,-95,-39,5,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/resources/sql/risk/two-contract-risks-on-contract-package.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"two-contract-risks-on-contract-package.sql","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,70,10,20,102,105,108,101,84,121,112,101,115,47,99,117,115,116,111,109,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-96,-6,-105,-89,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/messaging/listener/FirstInsurancePaymentPaidConsumer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"FirstInsurancePaymentPaidConsumer.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/ContractService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ContractService.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-34,-46,-26,-50,-2,-1,-1,-1,-1,1,48,1]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/contract/ContractRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4004">
+              <caret line="195" column="63" selection-start-line="195" selection-start-column="63" selection-end-line="195" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ContractRepository.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-34,-46,-26,-50,-2,-1,-1,-1,-1,1,48,1]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/ContractPackage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="682">
+              <caret line="56" column="41" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ContractPackage.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/ContractRisk.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="352">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ContractRisk.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/Contract.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3300">
+              <caret line="245" selection-start-line="245" selection-end-line="245" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Contract.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/DownloadGreenCardQueuePreparationJob.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DownloadGreenCardQueuePreparationJob.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 176,
+      "lastUsed": 1730109842456
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1719996223700
+    },
+    "DIFF": {
+      "usageCount": 7,
+      "lastUsed": 1722259569423
+    },
+    "SQL": {
+      "usageCount": 23,
+      "lastUsed": 1730109839807
+    },
+    "CLASS": {
+      "usageCount": 1,
+      "lastUsed": 1721744238419
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1730024275609
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>by-number-and-pro</find>
+      <find>bez DPH</find>
+      <find>/sign</find>
+      <find>year</find>
+      <find>Temporary</find>
+      <find>queueab</find>
+      <find>42L</find>
+      <find>allianz</find>
+      <find>915f2ca3-da49-4f8e-81eb-8ef8ab0da860</find>
+      <find>verify</find>
+      <find>af87800e-7ea5-46b8-99c5-33be8b875265</find>
+      <find>8eb1a574-41b0-4df4-a2ae-820bb9898483</find>
+      <find>e584697b-fc3b-4905-99eb-59620d0ae300</find>
+      <find>9f5cdccb-20d2-467a-8311-5bf32e949505</find>
+      <find>insuredObjectRelations</find>
+      <find>packageRisk</find>
+      <find>packageRiskId</find>
+      <find>OneTimeInsu</find>
+      <find>08b8037e-9e75-4d27-a393-9e467db7d99e</find>
+      <find>findContractByIdEligibleForGreenCardDownload</find>
+      <find>risk</find>
+      <find>7b37b3f7-2c80-4bda-a309-f80989eb82e1</find>
+      <find>insert into contract_risk(id, contract_package_id, package_risk_id, premium_amount, limit_amount, limit_rate)
+values
+('27437199-906a-43d1-8ff7-a9d6adb86002',</find>
+      <find>2836b903-05e6-4de9-95d1-e70eca8b6026</find>
+      <find>78e720ba-cfb8-40c7-a4ea-a7e249bef439</find>
+      <find>95c7cc5a-6d38-46f3-b4ba-f232767269ec</find>
+      <find>8638fca1-863e-4d5c-916b-45a2500f3e58</find>
+      <find>null</find>
+      <find>providerId;</find>
+      <find />
+      <find>temp_in</find>
+      <find>CSOB</find>
+      <find>temp_insurance_card_migration_item</find>
+      <find>internal</find>
+      <find>.internal</find>
+      <find>ErrorDetail;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ad7a7757-e52c-42d0-9fb0-91d5a465144d</replace>
+      <replace />
+      <replace>b6fd3880-b8a1-4f07-82cc-5f0d8a2f7f2e</replace>
+      <replace>e11d096f-6f53-475e-86f8-5a63fae955d2</replace>
+      <replace>d855f02f-af5b-48b6-8c42-386c3f27c482</replace>
+      <replace>2dd6bab0-611b-4729-ba6b-0f488b3df028</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/controller/contract</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/messaging/listener</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl</dir>
+      <dir>$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/scheduling</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/objects</dir>
+      <dir>$PROJECT_DIR$/src/test</dir>
+      <dir>$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/contract</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/sql/risk</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/sql</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/service/impl</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/sql/contract</dir>
+      <dir>$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/listener</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/internal</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/scheduling/DownloadGreenCardJobTest.java" />
+      <option value="$PROJECT_DIR$/src/test/resources/sql/risk/two-contract-risks-on-contract-package.sql" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/service/impl/DefaultGreenCardQueueService.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/FirstInsurancePaymentPaidGreenCardDownloaderTest.java" />
+      <option value="$PROJECT_DIR$/src/test/resources/sql/contract/DOK-29194.sql" />
+      <option value="$PROJECT_DIR$/src/test/resources/sql/contract/contract-download-on-first-payment-paid.sql" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/listener/FirstInsurancePaymentPaidConsumerTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="176" lastUsage="1730109842456" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1719996223701" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rixo-contracts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-contracts}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="rixo-contracts" />
+            <item name="rixo-contracts" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="rixo-contracts" />
+              <item name="dir{file:///home/huginn/rixo/rixo-contracts}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.azure" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".azure" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/.azure}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/db" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="db" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/db}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="gradle" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/huginn/rixo/rixo-contracts/src}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
+                  </map>
+                </attributes>
+                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="build.gradle.kts" />
+                <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew" />
+                <item name="gradlew" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew.bat" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew.bat" />
+                <item name="gradlew.bat" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lombok.config" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/config.svg" iconPlugin="Lombook Plugin" isLeaf="true" text="lombok.config" />
+                <item name="lombok.config" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/RELEASE_NOTES.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="RELEASE_NOTES.md" />
+                <item name="RELEASE_NOTES.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle.kts" />
+                  </map>
+                </attributes>
+                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="settings.gradle.kts" />
+                <item name="settings.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/version.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="version.properties" />
+                <item name="version.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.FirstInsurancePaymentPaidGreenCardDownloaderTest" />
+      <element setting="Gradle.FirstInsurancePaymentPaidGreenCardDownloaderTest.shouldDownloadCsobGreenCard_WhenFirstPaymentMessageComes" />
+      <element setting="Gradle.FirstInsurancePaymentPaidGreenCardDownloaderTest.downloadCsobGreenCard_WhenFirstPaymentMessageComes" />
+      <element setting="Gradle.FirstInsurancePaymentPaidGreenCardDownloaderTest.downloadCsobGreenCard_whenFirstPaymentMessageComes" />
+      <element setting="Gradle.FirstInsurancePaymentPaidConsumerTest.downloadCsobGreenCard_whenFirstPaymentMessageComes" />
+      <element setting="Gradle.FirstInsurancePaymentPaidConsumerTest" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="rixo-contracts-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest_downloadCsobGreenCard_WhenFirstPaymentMessageComes - 2024.07.23 at 15h 56m 28s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest.downloadCsobGreenCard_WhenFirstPaymentMessageComes" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest_downloadCsobGreenCard_WhenFirstPaymentMessageComes - 2024.07.23 at 16h 01m 39s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest.downloadCsobGreenCard_WhenFirstPaymentMessageComes" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest_downloadCsobGreenCard_WhenFirstPaymentMessageComes - 2024.07.23 at 16h 03m 00s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest.downloadCsobGreenCard_WhenFirstPaymentMessageComes" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest - 2024.07.23 at 16h 04m 16s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest - 2024.07.23 at 16h 05m 23s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest - 2024.07.23 at 16h 06m 04s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest - 2024.07.23 at 16h 18m 31s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest_shouldDownloadCsobGreenCard_WhenFirstPaymentMessageComes - 2024.07.24 at 08h 29m 56s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest.shouldDownloadCsobGreenCard_WhenFirstPaymentMessageComes" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest_shouldDownloadCsobGreenCard_WhenFirstPaymentMessageComes - 2024.07.24 at 08h 31m 57s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest.shouldDownloadCsobGreenCard_WhenFirstPaymentMessageComes" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FirstInsurancePaymentPaidGreenCardDownloaderTest - 2024.07.24 at 08h 35m 48s.xml">
+      <configuration name="FirstInsurancePaymentPaidGreenCardDownloaderTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.037395395" />
+      <window_info id="Commit" order="1" weight="0.16015625" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33029723" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.30536914" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.33029723" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33029723" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.33029723" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.33029723" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.02170502" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33029723" left="0.037395395" right="0.02170502" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Gradle</value>
+      <value>Debug</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Find</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2535" y="172" width="689" height="669" key="#Notifications" timestamp="1723014818668">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2535" y="172" width="689" height="669" key="#Notifications/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723014818668" />
+    <state x="2659" y="249" width="424" height="495" key="FileChooserDialogImpl" timestamp="1730187369205">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2661" y="269" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1730028733102" />
+    <state x="2659" y="249" key="FileChooserDialogImpl/0.0.1920.1080/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1730187369205" />
+    <state x="2663" y="289" width="424" height="495" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1722499086717" />
+    <state x="2663" y="289" key="FileChooserDialogImpl/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721743116444" />
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721803069685" />
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721744399307" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721803069685" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721744399307" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721803069685" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721744399307" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721803069685" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721744399307" />
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721802948677" />
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721743456734" />
+    <state width="1838" height="302" key="GridCell.Tab.1.center" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.1.center/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721802948677" />
+    <state width="1838" height="302" key="GridCell.Tab.1.center/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721743456733" />
+    <state width="1838" height="302" key="GridCell.Tab.1.left" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.1.left/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721802948677" />
+    <state width="1838" height="302" key="GridCell.Tab.1.left/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721743456733" />
+    <state width="1838" height="302" key="GridCell.Tab.1.right" timestamp="1721827653755">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1721827653755" />
+    <state width="1838" height="302" key="GridCell.Tab.1.right/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721802948677" />
+    <state width="1838" height="302" key="GridCell.Tab.1.right/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721743456734" />
+    <state x="3339" y="863" width="480" height="139" key="ProcessPopupWindow" timestamp="1723015228355">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3339" y="863" width="480" height="139" key="ProcessPopupWindow/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723015228355" />
+    <state x="2384" y="138" key="SettingsEditor" timestamp="1723015028788">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="138" key="SettingsEditor/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723015028788" />
+    <state x="2644" y="139" width="959" height="672" key="find.popup" timestamp="1722498830988">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2644" y="139" width="959" height="672" key="find.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1722498830988" />
+    <state x="2644" y="139" width="959" height="672" key="find.popup/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721805787006" />
+    <state x="2644" y="139" width="959" height="672" key="find.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721742671382" />
+    <state x="2543" y="228" width="680" height="696" key="search.everywhere.popup" timestamp="1723014986484">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="228" width="680" height="696" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723014986484" />
+    <state x="2543" y="228" width="672" height="696" key="search.everywhere.popup/3840.32.1920.1048/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721803169842" />
+    <state x="2543" y="228" width="672" height="696" key="search.everywhere.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721744199651" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>Optional.of(new Contract())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Contract()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>jobQueueRepository.findAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contractRepository.findById(contractId).get().getInsuredObjectRelations()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contractRepository.findById(contractId).get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contractRepository.findById(contractId)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!VEHICLE.equals(productDto.getServiceBranch().getId())                 || !ALLOWED_GREEN_CARD_PROVIDER_IDS.contains(productDto.getProvider().getId())                 || eligibleContract.isEmpty()                 || isNotEmpty(activeContractCancellations)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!VEHICLE.equals(productDto.getServiceBranch().getId())                 || !ALLOWED_GREEN_CARD_PROVIDER_IDS.contains(productDto.getProvider().getId())                 || eligibleContract.isEmpty()                 || isNotEmpty(activeContractCancellations</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>productDto.getServiceBranch().getId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>productDto.getServiceBranch()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>productDto</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.getProductId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/DefaultOfferContractArrangementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="135" column="28" lean-forward="true" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/impl/OffersMicroservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/controller/contract/ContractController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="195" column="12" selection-start-line="194" selection-start-column="14" selection-end-line="195" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/jobqueue/JobQueueRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/enums/ContractsEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/enums/ContractStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/DefaultVehicleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="79" column="39" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/DownloadGreenCardJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/VehicleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/controller/enums/dto/EnumDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/scheduling/ImportAllianzAnniversaryContractsJobTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/messaging/listener/dto/FirstInsurancePaymentPaidMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/impl/product/ProductDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/contract-with-documents-and-attachments.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/objects/InsuranceTypeInsuredObjectType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/objects/types/InsuredVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated/sources/annotationProcessor/java/main/cz/hc/dok/contracts/domain/mapper/object/InsuredVehicleMapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/enums/InsuredObjectType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/InsuredObjectOnContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/test/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/download-contract-green-card-job-queue-items.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/allianz-anniversary-contract.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/service/GreenCardQueueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/product/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/impl/ProductCatalogMicroservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cz.rixo/rixo-oauth-resource-server-config/8.0.0/e8346ff58b22fed8fd991c1795fb6ea6a68e6b51/rixo-oauth-resource-server-config-8.0.0.jar!/cz/rixo/oauth/resourceserver/config/audit/Auditable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/DOK-29194.sql" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/internal/ContractUpdateInternalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/listener/FirstInsurancePaymentPaidConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/internal/impl/DefaultContractUpdateInternalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/messaging/FirstInsurancePaymentPaidGreenCardDownloaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/TempInsuranceCardMigrationItem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/contract/TempInsuranceCardMigrationItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/OneTimeInsuranceCardDownloadJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/service/impl/DefaultGreenCardQueueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="141" column="23" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/impl/DefaultContractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2728">
+          <caret line="239" column="18" selection-start-line="239" selection-start-column="18" selection-end-line="239" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/impl/ProductCatalogCachedMicroservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/objects/InsuredObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/contracts/scheduling/DownloadGreenCardJobTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/contract-download-on-first-payment-paid.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/risk/two-contract-risks-on-contract-package.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/service/ContractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/messaging/listener/FirstInsurancePaymentPaidConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/repository/contract/ContractRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4004">
+          <caret line="195" column="63" selection-start-line="195" selection-start-column="63" selection-end-line="195" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/scheduling/DownloadGreenCardQueuePreparationJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/ContractRisk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/ContractPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/contracts/domain/contract/Contract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

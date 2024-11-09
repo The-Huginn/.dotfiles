@@ -1,0 +1,5 @@
+-Xmx3913m
+-Dide.managed.by.toolbox=/home/huginn/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=a98324fc-b731-496b-a82a-74702918028f
+-Dtoolbox.notification.portFile=/home/huginn/.cache/JetBrains/Toolbox/ports/73c565c2-0c81-49ba-b817-d5a64cf82efe.port
+-Didea.suppressed.plugins.set.selector=radler

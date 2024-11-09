@@ -1,0 +1,2 @@
+NATURAL(1L),
+    LEGAL(2L);

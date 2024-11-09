@@ -1,0 +1,53 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Android.Designer.IssuePanel.QuickFixes">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="GotoClass" />
+  <action id="KotlinShellExecute" />
+  <action id="QuickChangeScheme" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="RunToCursor" />
+  <action id="ScalaConsole.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="ScalaConsole.NewLine" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.NewTab" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="ViewSource" />
+</keymap>

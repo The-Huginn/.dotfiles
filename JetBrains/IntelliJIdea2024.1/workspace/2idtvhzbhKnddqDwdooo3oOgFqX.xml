@@ -1,0 +1,1381 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rixo-klappka-be" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:task" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bug" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:task" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:feature/DOK-29002" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="37h66pr3rj44a" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/legacy/EvaluationPackageMessage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/users/UserBankAccount.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest/ServiceRequestFieldName.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/wizard/WizardDataName.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="814">
+              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/wizard/insurance/vehicle/WhoIsInsuredProvider.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="6226">
+              <caret line="353" column="37" selection-start-line="353" selection-start-column="37" selection-end-line="353" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/repository/impl/InMemoryBlockedIpAddressRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/client/CodebooksClient.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="924">
+              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract/FirstInsurancePaymentPaidMessage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/time/LocalDate.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="14960">
+              <caret line="1892" column="37" selection-start-line="1892" selection-start-column="25" selection-end-line="1892" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/FirstInsurancePaymentPaidConsumerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="792">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/standard-for-active.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/ContractFirstInsurancePaymentPaidPropertyCommand.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/support/SyncedEntityId.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractMaintenanceService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractMaintenanceService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1650">
+              <caret line="94" column="8" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractPaymentService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractArrangementService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractProductVariantService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="683">
+              <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="8140">
+              <caret line="402" column="5" selection-start-line="402" selection-start-column="5" selection-end-line="402" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ServiceObjectService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/CustomContractService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractSubjectService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/scheduling/ManageContractsStatesJob.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1672">
+              <caret line="87" column="39" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/listener/FirstInsurancePaymentPaidConsumer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractInternalService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="455">
+              <caret line="383" selection-start-line="383" selection-end-line="383" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance/holder/InsuranceEventsAmountsInYears.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/wizard/value/WizardValueObject.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="247">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8dad6e5f-d7c4-4da9-9890-4f524c17ef35/console.js">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/arrangementdata/field/impl/contact/address/RuianAddressFieldContent.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="27">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance/holder/InsuranceEventsAmountsInYearsField.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/contract/ContractState.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="682">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/ended-recently-for-active.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/ContractCreatedConsumerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="616">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractInternalService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="330">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/test/SpringTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1826">
+              <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/contract/Contract.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2442">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 122,
+      "lastUsed": 1723796826168
+    },
+    "SQL": {
+      "usageCount": 13,
+      "lastUsed": 1723733485886
+    },
+    "DIFF": {
+      "usageCount": 3,
+      "lastUsed": 1723727909415
+    },
+    "CLASS": {
+      "usageCount": 2,
+      "lastUsed": 1723724986863
+    },
+    "Kotlin": {
+      "usageCount": 1,
+      "lastUsed": 1723725311837
+    },
+    "JavaScript": {
+      "usageCount": 1,
+      "lastUsed": 1723797521680
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nationality</find>
+      <find>clientNationalityId</find>
+      <find>{&quot;ts&quot;:&quot;2024-08-13T13:02:47.989+0200&quot;,&quot;level&quot;:&quot;ACC-RES&quot;,&quot;trace_id&quot;:&quot;2ff29544344932d219dad4a47c4d37be&quot;,&quot;span_id&quot;:&quot;3b1b94cd8b03f659&quot;,&quot;version&quot;:&quot;16.29.0-M-DOK_28782_292-13c8eb6&quot;,&quot;remote&quot;:&quot;10.110.1.187&quot;,&quot;uri&quot;:&quot;/api/rixo-offers/service-request/user/2045424/j1-contract/2049596&quot;,&quot;response&quot;:{&quot;status&quot;:&quot;200&quot;,&quot;headers&quot;:&quot;{\&quot;Set-Cookie\&quot;:\&quot;JSESSIONID=2511A22D4B91956606D64DB93EB37EC9; Path=/api/rixo-offers; Secure; HttpOnly\&quot;,\&quot;X-Content-Type-Options\&quot;:\&quot;nosniff\&quot;,\&quot;X-XSS-Protection\&quot;:\&quot;1; mode=block\&quot;,\&quot;Cache-Control\&quot;:\&quot;no-cache, no-store, max-age=0, must-revalidate\&quot;,\&quot;Pragma\&quot;:\&quot;no-cache\&quot;,\&quot;Expires\&quot;:\&quot;0\&quot;,\&quot;Strict-Transport-Security\&quot;:\&quot;max-age=31536000 ; includeSubDomains\&quot;,\&quot;X-Frame-Options\&quot;:\&quot;DENY\&quot;}&quot;,&quot;body&quot;:&quot;{\&quot;userId\&quot;:2045424,\&quot;clientName\&quot;:\&quot;asd adsasd\&quot;,\&quot;id\&quot;:2047722,\&quot;j1ContractId\&quot;:2049596,\&quot;copyId\&quot;:null,\&quot;serviceType\&quot;:\&quot;INSURANCE\&quot;,\&quot;insuranceType\&quot;:\&quot;VEHICLE\&quot;,\&quot;energyType\&quot;:null,\&quot;loanType\&quot;:null,\&quot;versions\&quot;:[{\&quot;id\&quot;:2049847,\&quot;createdBy\&quot;:\&quot;2045424\&quot;,\&quot;createdDate\&quot;:\&quot;2024-08-13T10:50:20.582893Z\&quot;,\&quot;data\&quot;:[{\&quot;dataName\&quot;:\&quot;CLIENT_PHONE_NUMBER\&quot;,\&quot;name\&quot;:\&quot;CLIENT_PHONE_NUMBER\&quot;,\&quot;value\&quot;:\&quot;977363353\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;977363353\&quot;}},{\&quot;dataName\&quot;:\&quot;CLIENT_ZIP_CODE\&quot;,\&quot;name\&quot;:\&quot;CLIENT_ZIP_CODE\&quot;,\&quot;value\&quot;:\&quot;696 61\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;696 61\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleNotRegisteredInCzechRepublic\&quot;,\&quot;name\&quot;:\&quot;vehicleNotRegisteredInCzechRepublic\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_TOTAL_KM\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_TOTAL_KM\&quot;,\&quot;value\&quot;:\&quot;2000\&quot;,\&quot;rawValue\&quot;:{\&quot;intValue\&quot;:2000}},{\&quot;dataName\&quot;:\&quot;vehicleParkingAssistant\&quot;,\&quot;name\&quot;:\&quot;vehicleParkingAssistant\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;VEHICLE_ACCIDENT_REQUESTED\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_ACCIDENT_REQUESTED\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_LIABILITY_REQUESTED\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_LIABILITY_REQUESTED\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;VEHICLE_WITHOUT_PLATE_NUMBER\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_WITHOUT_PLATE_NUMBER\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;CLIENT_CITY\&quot;,\&quot;name\&quot;:\&quot;CLIENT_CITY\&quot;,\&quot;value\&quot;:\&quot;Vnorovy\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;Vnorovy\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_TYPE\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_TYPE\&quot;,\&quot;value\&quot;:\&quot;e408a8b1-390a-4eb5-b9fe-b34dd32e76de\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;e408a8b1-390a-4eb5-b9fe-b34dd32e76de\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleDriverUnderAgeOf24\&quot;,\&quot;name\&quot;:\&quot;vehicleDriverUnderAgeOf24\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_PLATE_NUMBER\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_PLATE_NUMBER\&quot;,\&quot;value\&quot;:\&quot;4Z95949\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;4Z95949\&quot;}},{\&quot;dataName\&quot;:\&quot;clientNationalityId\&quot;,\&quot;name\&quot;:\&quot;clientNationalityId\&quot;,\&quot;value\&quot;:\&quot;6497901b-3839-412e-a755-913d5753ca9c\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;6497901b-3839-412e-a755-913d5753ca9c\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleHasRightSidedSteeringWheel\&quot;,\&quot;name\&quot;:\&quot;vehicleHasRightSidedSteeringWheel\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;vehicleIsLeased\&quot;,\&quot;name\&quot;:\&quot;vehicleIsLeased\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_PURPOSE\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_PURPOSE\&quot;,\&quot;value\&quot;:\&quot;d4e4147d-c027-402b-a5ea-9a55024126b8\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;d4e4147d-c027-402b-a5ea-9a55024126b8\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_YEARLY_KM\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_YEARLY_KM\&quot;,\&quot;value\&quot;:\&quot;BETWEEN_6001_7000\&quot;,\&quot;rawValue\&quot;:{\&quot;enumValue\&quot;:\&quot;BETWEEN_6001_7000\&quot;}},{\&quot;dataName\&quot;:\&quot;CLIENT_LEGAL_TYPE\&quot;,\&quot;name\&quot;:\&quot;CLIENT_LEGAL_TYPE\&quot;,\&quot;value\&quot;:\&quot;NATURAL_PERSON\&quot;,\&quot;rawValue\&quot;:{\&quot;enumValue\&quot;:\&quot;NATURAL_PERSON\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleFourWheelDrive\&quot;,\&quot;name\&quot;:\&quot;vehicleFourWheelDrive\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}}],\&quot;persons\&quot;:[],\&quot;publishedEvaluationPackageId\&quot;:null,\&quot;status\&quot;:\&quot;READY\&quot;},{\&quot;id\&quot;:2049848,\&quot;createdBy\&quot;:\&quot;2045424\&quot;,\&quot;createdDate\&quot;:\&quot;2024-08-13T10:51:40.061912Z\&quot;,\&quot;data\&quot;:[{\&quot;dataName\&quot;:\&quot;CLIENT_PHONE_NUMBER\&quot;,\&quot;name\&quot;:\&quot;CLIENT_PHONE_NUMBER\&quot;,\&quot;value\&quot;:\&quot;977363353\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;977363353\&quot;}},{\&quot;dataName\&quot;:\&quot;CLIENT_ZIP_CODE\&quot;,\&quot;name\&quot;:\&quot;CLIENT_ZIP_CODE\&quot;,\&quot;value\&quot;:\&quot;696 61\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;696 61\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleNotRegisteredInCzechRepublic\&quot;,\&quot;name\&quot;:\&quot;vehicleNotRegisteredInCzechRepublic\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_TOTAL_KM\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_TOTAL_KM\&quot;,\&quot;value\&quot;:\&quot;2000\&quot;,\&quot;rawValue\&quot;:{\&quot;intValue\&quot;:2000}},{\&quot;dataName\&quot;:\&quot;VEHICLE_WEIGHT\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_WEIGHT\&quot;,\&quot;value\&quot;:\&quot;1000\&quot;,\&quot;rawValue\&quot;:{\&quot;intValue\&quot;:1000}},{\&quot;dataName\&quot;:\&quot;VEHICLE_ENGINE_POWER\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_ENGINE_POWER\&quot;,\&quot;value\&quot;:\&quot;103\&quot;,\&quot;rawValue\&quot;:{\&quot;decimalValue\&quot;:103}},{\&quot;dataName\&quot;:\&quot;CLIENT_NAME\&quot;,\&quot;name\&quot;:\&quot;CLIENT_NAME\&quot;,\&quot;value\&quot;:\&quot;asd\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;asd\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_ACCIDENT_REQUESTED\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_ACCIDENT_REQUESTED\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_LIABILITY_REQUESTED\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_LIABILITY_REQUESTED\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;VEHICLE_WITHOUT_PLATE_NUMBER\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_WITHOUT_PLATE_NUMBER\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;CLIENT_BIRTH_NUMBER\&quot;,\&quot;name\&quot;:\&quot;CLIENT_BIRTH_NUMBER\&quot;,\&quot;value\&quot;:\&quot;9510200018\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;9510200018\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleDriverUnderAgeOf24\&quot;,\&quot;name\&quot;:\&quot;vehicleDriverUnderAgeOf24\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;VEHICLE_PLATE_NUMBER\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_PLATE_NUMBER\&quot;,\&quot;value\&quot;:\&quot;4Z95949\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;4Z95949\&quot;}},{\&quot;dataName\&quot;:\&quot;holderDrivingLicenseFirstIssueYear\&quot;,\&quot;name\&quot;:\&quot;holderDrivingLicenseFirstIssueYear\&quot;,\&quot;value\&quot;:\&quot;2020\&quot;,\&quot;rawValue\&quot;:{\&quot;intValue\&quot;:2020}},{\&quot;dataName\&quot;:\&quot;VEHICLE_FIRST_REGISTRATION\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_FIRST_REGISTRATION\&quot;,\&quot;value\&quot;:\&quot;2024-04-02\&quot;,\&quot;rawValue\&quot;:{\&quot;dateValue\&quot;:\&quot;2024-04-02\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleHasRightSidedSteeringWheel\&quot;,\&quot;name\&quot;:\&quot;vehicleHasRightSidedSteeringWheel\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;vehicleIsLeased\&quot;,\&quot;name\&quot;:\&quot;vehicleIsLeased\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;ownerSameAsClient\&quot;,\&quot;name\&quot;:\&quot;ownerSameAsClient\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;VEHICLE_PURPOSE\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_PURPOSE\&quot;,\&quot;value\&quot;:\&quot;d4e4147d-c027-402b-a5ea-9a55024126b8\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;d4e4147d-c027-402b-a5ea-9a55024126b8\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleFourWheelDrive\&quot;,\&quot;name\&quot;:\&quot;vehicleFourWheelDrive\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;dataName\&quot;:\&quot;holderInsuredInPast\&quot;,\&quot;name\&quot;:\&quot;holderInsuredInPast\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;vehicleParkingAssistant\&quot;,\&quot;name\&quot;:\&quot;vehicleParkingAssistant\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;VEHICLE_BRAND\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_BRAND\&quot;,\&quot;value\&quot;:\&quot;f7b4f835-6e15-4aa9-bf00-f29c02167b9c\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;f7b4f835-6e15-4aa9-bf00-f29c02167b9c\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_PAYMENT_PREFERENCE\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_PAYMENT_PREFERENCE\&quot;,\&quot;value\&quot;:\&quot;YEAR\&quot;,\&quot;rawValue\&quot;:{\&quot;enumValue\&quot;:\&quot;YEAR\&quot;}},{\&quot;dataName\&quot;:\&quot;CLIENT_CITY\&quot;,\&quot;name\&quot;:\&quot;CLIENT_CITY\&quot;,\&quot;value\&quot;:\&quot;ssVnorovy\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;ssVnorovy\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_TYPE\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_TYPE\&quot;,\&quot;value\&quot;:\&quot;e408a8b1-390a-4eb5-b9fe-b34dd32e76de\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;e408a8b1-390a-4eb5-b9fe-b34dd32e76de\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_FUEL_TYPE\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_FUEL_TYPE\&quot;,\&quot;value\&quot;:\&quot;5703b8f4-c2fa-46b9-b4d1-a688979aef9e\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;5703b8f4-c2fa-46b9-b4d1-a688979aef9e\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_MODEL\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_MODEL\&quot;,\&quot;value\&quot;:\&quot;fdb4986f-39cc-4344-a227-3457b345cc9f\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;fdb4986f-39cc-4344-a227-3457b345cc9f\&quot;}},{\&quot;dataName\&quot;:\&quot;clientNationalityId\&quot;,\&quot;name\&quot;:\&quot;clientNationalityId\&quot;,\&quot;value\&quot;:\&quot;6497901b-3839-412e-a755-913d5753ca9c\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;6497901b-3839-412e-a755-913d5753ca9c\&quot;}},{\&quot;dataName\&quot;:\&quot;INSURED_PERSON_IS_POLICYHOLDER\&quot;,\&quot;name\&quot;:\&quot;INSURED_PERSON_IS_POLICYHOLDER\&quot;,\&quot;value\&quot;:\&quot;true\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;dataName\&quot;:\&quot;vehicleGearboxType\&quot;,\&quot;name\&quot;:\&quot;vehicleGearboxType\&quot;,\&quot;value\&quot;:\&quot;aba4449c-2a08-44f0-9c94-e37eafa76292\&quot;,\&quot;rawValue\&quot;:{\&quot;uuidValue\&quot;:\&quot;aba4449c-2a08-44f0-9c94-e37eafa76292\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_NUMBER_OF_SEATS\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_NUMBER_OF_SEATS\&quot;,\&quot;value\&quot;:\&quot;2\&quot;,\&quot;rawValue\&quot;:{\&quot;intValue\&quot;:2}},{\&quot;dataName\&quot;:\&quot;CLIENT_SURNAME\&quot;,\&quot;name\&quot;:\&quot;CLIENT_SURNAME\&quot;,\&quot;value\&quot;:\&quot;adsasd\&quot;,\&quot;rawValue\&quot;:{\&quot;stringValue\&quot;:\&quot;adsasd\&quot;}},{\&quot;dataName\&quot;:\&quot;holderHoldingStartDate\&quot;,\&quot;name\&quot;:\&quot;holderHoldingStartDate\&quot;,\&quot;value\&quot;:\&quot;2023-10-04\&quot;,\&quot;rawValue\&quot;:{\&quot;dateValue\&quot;:\&quot;2023-10-04\&quot;}},{\&quot;dataName\&quot;:\&quot;VEHICLE_YEARLY_KM\&quot;,\&quot;name\&quot;:\&quot;VEHICLE_YEARLY_KM\&quot;,\&quot;value\&quot;:\&quot;BETWEEN_6001_7000\&quot;,\&quot;rawValue\&quot;:{\&quot;enumValue\&quot;:\&quot;BETWEEN_6001_7000\&quot;}},{\&quot;dataName\&quot;:\&quot;CLIENT_LEGAL_TYPE\&quot;,\&quot;name\&quot;:\&quot;CLIENT_LEGAL_TYPE\&quot;,\&quot;value\&quot;:\&quot;NATURAL_PERSON\&quot;,\&quot;rawValue\&quot;:{\&quot;enumValue\&quot;:\&quot;NATURAL_PERSON\&quot;}},{\&quot;dataName\&quot;:\&quot;vehicleNotRegisteredInSlovakia\&quot;,\&quot;name\&quot;:\&quot;vehicleNotRegisteredInSlovakia\&quot;,\&quot;value\&quot;:\&quot;false\&quot;,\&quot;rawValue\&quot;:{\&quot;boolValue\&quot;:false}}],\&quot;persons\&quot;:[],\&quot;publishedEvaluationPackageId\&quot;:null,\&quot;status\&quot;:\&quot;READY\&quot;}],\&quot;vehicleCertificatePhoto\&quot;:null,\&quot;insuredObjectIds\&quot;:[\&quot;95732325-3c41-4351-8aa8-8fd2da6d38a0\&quot;],\&quot;publicWizard\&quot;:true,\&quot;attachmentContentId\&quot;:null,\&quot;customerPlatform\&quot;:\&quot;BROWSER\&quot;,\&quot;createdDate\&quot;:\&quot;2024-08-13T10:50:20.576766Z\&quot;,\&quot;country\&quot;:\&quot;SK\&quot;}&quot;},&quot;duration&quot;:&quot;32&quot;,&quot;service&quot;:&quot;rixo-offers&quot;}</find>
+      <find>6497901b-3839-412e-a755-913d5753ca9c</find>
+      <find>CZECH_NATIONALITY_ID</find>
+      <find>cancel</find>
+      <find>log</find>
+      <find>syncID</find>
+      <find>transac</find>
+      <find>end</find>
+      <find>tion(&quot;cz.rixo:rixo-commons-starter</find>
+      <find />
+      <find>AtStartOfDay</find>
+      <find>cancelled</find>
+      <find>checkstyle</find>
+      <find>insuranceEventsAmountsInYears</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/users</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/wizard/insurance/vehicle</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/listener</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/legacy/EvaluationPackageMessage.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract/FirstInsurancePaymentPaidMessage.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/ContractFirstInsurancePaymentPaidPropertyCommand.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/FirstInsurancePaymentPaidConsumerTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract/ContractCancelledByServiceProvider.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract/ContractCancelledByServiceProviderMessage.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/listener/FirstInsurancePaymentPaidConsumer.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/mapper/ContractFirstInsurancePaymentPaidPropertyCommandMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/mapper/ContractCancelledByServiceProviderCommandMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/ContractCancelledByServiceProviderCommand.java" />
+      <option value="$PROJECT_DIR$/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/contract/ContractState.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/ContractCancelledByServiceProviderConsumerTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/listener/ContractCancelledByServiceProviderConsumer.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractInternalService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractInternalService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="122" lastUsage="1723796826168" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1723797521680" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="13" lastUsage="1723733485886" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="1" lastUsage="1723725311837" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance/holder}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto/consumed}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto/consumed}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto/published}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto/published}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/dto/published/servicerequest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/messaging/listener}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract/command}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract/command}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract/command/mapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/service/contract/impl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/java/cz/rixo/klappka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/java/cz/rixo/klappka/messaging/listener}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/resources/sql}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-klappka-be" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/resources/sql}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-klappka-be/src/test/resources/sql/contract}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.ContractCancelledByServiceProviderConsumerTest" />
+      <element setting="Gradle.ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" />
+      <element setting="Gradle.FirstInsurancePaymentPaidConsumerTest" />
+      <element setting="Remote JVM Debug.Unnamed" />
+      <element setting="Gradle.Tests in 'rixo-klappka-be.test'" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="rixo-klappka-be-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FirstInsurancePaymentPaidConsumerTest - 2024.08.14 at 17h 03m 31s.xml">
+      <configuration name="FirstInsurancePaymentPaidConsumerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 50m 17s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 52m 12s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 53m 37s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 55m 16s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 55m 21s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 55m 36s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest_shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived - 2024.08.15 at 14h 57m 25s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest.shouldCancelContract_WhenContractCanceledByServiceProviderMessageReceived" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest - 2024.08.15 at 15h 25m 08s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContractCancelledByServiceProviderConsumerTest - 2024.08.15 at 15h 30m 59s.xml">
+      <configuration name="ContractCancelledByServiceProviderConsumerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19755000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Persistence" show_stripe_button="false" side_tool="true" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19240838" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.19240838" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33029723" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33029723" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33029723" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33029723" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.33029723" />
+      <window_info anchor="right" id="String Manipulation" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Beans" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.13272251" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.13272251" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33029723" left="0.19240838" right="0.13272251" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="180" width="819" height="659" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1723797579203">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="181" width="800" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723459612034" />
+    <state x="4395" y="181" width="819" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723618974382" />
+    <state x="2475" y="180" width="819" height="659" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723797579203" />
+    <state x="1518" y="227" width="402" height="632" key="#com.intellij.ide.util.MemberChooser" timestamp="1723727776945">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1518" y="227" width="402" height="632" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723727776945" />
+    <state x="2663" y="277" width="424" height="495" key="FileChooserDialogImpl" timestamp="1723797567919">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="301" width="424" height="495" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731174820" />
+    <state x="2663" y="277" width="424" height="495" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723459566857" />
+    <state x="2663" y="277" width="424" height="495" key="FileChooserDialogImpl/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723797567919" />
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1828" height="314" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723716849578" />
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1828" height="314" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723716849578" />
+    <state width="1838" height="314" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1828" height="314" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723716849578" />
+    <state width="1838" height="314" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1828" height="314" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723716849578" />
+    <state width="1838" height="314" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721721483122" />
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1838" height="314" key="GridCell.Tab.1.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.1.center" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1838" height="314" key="GridCell.Tab.1.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.1.left" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1838" height="314" key="GridCell.Tab.1.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state width="1838" height="302" key="GridCell.Tab.1.right" timestamp="1723731175734">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723731175734" />
+    <state width="1838" height="314" key="GridCell.Tab.1.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723624530004" />
+    <state x="2379" y="191" width="992" height="737" key="SettingsEditor" timestamp="1723797296344">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2379" y="191" width="992" height="737" key="SettingsEditor/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723797296344" />
+    <state x="724" y="167" width="1046" height="585" key="find.popup" timestamp="1723795905957">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="724" y="167" width="1046" height="585" key="find.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723728718601" />
+    <state x="4564" y="139" width="649" height="602" key="find.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723618794313" />
+    <state x="724" y="167" width="1046" height="585" key="find.popup/1920.0.1920.1080/0.32.1920.1048@0.32.1920.1048" timestamp="1723795905957" />
+    <state x="2543" y="228" width="769" height="714" key="search.everywhere.popup" timestamp="1723797273530">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2714" y="234" width="678" height="692" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723728479367" />
+    <state x="2543" y="228" width="678" height="713" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723733574511" />
+    <state x="4463" y="228" width="678" height="713" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723734270607" />
+    <state x="623" y="253" width="678" height="692" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1723711091198" />
+    <state x="623" y="253" width="678" height="692" key="search.everywhere.popup/1920.0.1920.1080/0.32.1920.1048@0.32.1920.1048" timestamp="1723795908937" />
+    <state x="2543" y="228" width="769" height="714" key="search.everywhere.popup/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723797273530" />
+    <state x="2543" y="228" width="672" height="713" key="search.everywhere.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721720743733" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/published/servicerequest/UserUpdatedServiceRequestMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract/ContractCancelledByServiceProviderMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/document/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+          <folding>
+            <element signature="e#3762#3763#0" expanded="true" />
+            <element signature="e#3791#3792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.31/143e79385354fc7ffd9773a31ba989931ad9e920/spring-tx-5.3.31.jar!/org/springframework/transaction/annotation/Propagation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/product/direct.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/provider/direct.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/enums/contract/ContractStatus.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/mapper/ContractFirstInsurancePaymentPaidPropertyCommandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/user/active.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/mapper/ContractCancelledByServiceProviderCommandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.31/143e79385354fc7ffd9773a31ba989931ad9e920/spring-tx-5.3.31.jar!/org/springframework/transaction/annotation/Transactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="63" column="49" selection-start-line="63" selection-start-column="49" selection-end-line="63" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/users/UserBankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest/ServiceRequestFieldName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/wizard/WizardDataName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/wizard/insurance/vehicle/WhoIsInsuredProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6226">
+          <caret line="353" column="37" selection-start-line="353" selection-start-column="37" selection-end-line="353" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/repository/impl/InMemoryBlockedIpAddressRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/client/CodebooksClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/dto/consumed/contract/FirstInsurancePaymentPaidMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14960">
+          <caret line="1892" column="37" selection-start-line="1892" selection-start-column="25" selection-end-line="1892" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/FirstInsurancePaymentPaidConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/standard-for-active.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/ContractFirstInsurancePaymentPaidPropertyCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/support/SyncedEntityId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractMaintenanceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractMaintenanceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractArrangementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractProductVariantService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8140">
+          <caret line="402" column="5" selection-start-line="402" selection-start-column="5" selection-end-line="402" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ServiceObjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/CustomContractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractSubjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/scheduling/ManageContractsStatesJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="87" column="39" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/listener/FirstInsurancePaymentPaidConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/messaging/listener/ContractCancelledByServiceProviderConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/contract/ContractState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sql/contract/ended-recently-for-active.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/ContractCreatedConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/messaging/listener/ContractCancelledByServiceProviderConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractInternalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/rixo/klappka/test/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/contract/Contract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2442">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/ContractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/command/ContractCancelledByServiceProviderCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/service/contract/impl/DefaultContractInternalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="383" lean-forward="true" selection-start-line="383" selection-end-line="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance/holder/InsuranceEventsAmountsInYearsField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/servicerequest/field/impl/insurance/holder/InsuranceEventsAmountsInYears.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/arrangementdata/field/impl/contact/address/RuianAddressFieldContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/rixo/klappka/domain/wizard/value/WizardValueObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8dad6e5f-d7c4-4da9-9890-4f524c17ef35/console.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

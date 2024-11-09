@@ -1,0 +1,93 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Help.KeymapReference" />
+      <option value="GotoDeclarationOnly" />
+      <option value="CWMManageLicense" />
+      <option value="WelcomeScreen.Plugins" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FindSplitterProportion": "0.48247233",
+    "GradleSupport.showInternalTestNodes": "false",
+    "KEYMAP": "database\nresize",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "MarketplacePluginsSearchHistory": "database tools and sql\ndatabase tools\ndatabase toot\ndata\nda",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "SettingsSearchHistory": "kotlin\ndeclaration\nannotation",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "consoleView",
+    "debugger.smart.chooser.counter": "3",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23726.103",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.extract.method.gotit.navigate": "1",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "ide.try.ultimate.disabled": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "242.23726.103-IJ",
+    "kotlin.code.style.migration.dialog.show.count": "1",
+    "kotlin.lastUpdateCheck": "1722948440208",
+    "last.imported.location": "/home/huginn/rixo/rixo-financials",
+    "last_opened_file_path": "/home/huginn/settings.zip",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "IC-242.23726.103",
+    "settings.code.style.selected.tab.kotlin": "Imports"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/huginn/rixo/rixo-codebooks",
+      "/home/huginn/rixo/rixo-commons",
+      "/home/huginn/rixo/rixo-contracts",
+      "/home/huginn/rixo/rixo-product-catalog",
+      "/home/huginn/rixo/rixo-file-storage",
+      "/home/huginn/rixo/rixo-energy-bridge",
+      "/home/huginn/rixo/rixo-zeteo-bridge",
+      "/home/huginn/rixo/rixo-offers",
+      "/home/huginn/settings.zip",
+      "/home/huginn/rixo/rixo-financials"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="rixo-offers-history" project-path="/home/huginn/rixo/rixo-offers" last-access-time="1722839807906" />
+      <command-history-file filename="rixo-calc-index-history" project-path="/home/huginn/rixo/rixo-calc-index" last-access-time="1722839801999" />
+      <command-history-file filename="rixo-financials-history" project-path="/home/huginn/rixo/rixo-financials" last-access-time="1722839979939" />
+      <command-history-file filename="rixo-energy-bridge-history1" project-path="/home/huginn/rixo/rixo-energy-bridge" last-access-time="1722839817104" />
+      <command-history-file filename="rixo-codebooks-history" project-path="/home/huginn/rixo/rixo-codebooks" last-access-time="1730187371577" />
+      <command-history-file filename="rixo-insurance-bridge-history" project-path="/home/huginn/rixo/rixo-zeteo-bridge" last-access-time="1721028157508" />
+      <command-history-file filename="rixo-file-storage-history1" project-path="/home/huginn/rixo/rixo-file-storage" last-access-time="1722839935675" />
+      <command-history-file filename="rixo-product-catalog-history" project-path="/home/huginn/rixo/rixo-product-catalog" last-access-time="1722943425089" />
+    </command-history-files>
+  </component>
+</application>

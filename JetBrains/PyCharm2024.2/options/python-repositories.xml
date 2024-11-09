@@ -1,0 +1,13 @@
+<application>
+  <component name="PyPackageRepositories">
+    <option name="repositories">
+      <list>
+        <PyPackageRepository>
+          <option name="login" />
+          <option name="name" value="CPU - torch" />
+          <option name="repositoryUrl" value="https://download.pytorch.org/whl/cpu/" />
+        </PyPackageRepository>
+      </list>
+    </option>
+  </component>
+</application>

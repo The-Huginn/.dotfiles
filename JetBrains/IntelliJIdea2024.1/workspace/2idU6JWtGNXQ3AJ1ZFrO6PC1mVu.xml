@@ -1,0 +1,1840 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rixo-offers" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:task" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backup" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:task" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:bugfix/DOK-29874" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="dev2-rixo-offers: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="dev2-rixo-offers: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="dev2-rixo-offers: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 38 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="37h66pr3rj44a" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/UserUpdatedServiceRequestMessage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/InsuredObjectPropertyRequest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/controller/InsuredObjectPropertyRequestMapper.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4356">
+              <caret line="262" column="57" selection-start-line="262" selection-start-column="57" selection-end-line="262" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestConsumerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="445">
+              <caret line="265" column="91" selection-start-line="265" selection-start-column="91" selection-end-line="265" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserUpdatedInsuranceRequestConsumerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="17072">
+              <caret line="917" column="9" selection-start-line="917" selection-start-column="9" selection-end-line="917" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/test/SpringTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1342">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/KlappkaFieldValue.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/KlappkaFieldObjectValue.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/UploadedContractsWizardValue.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/SportsWizardValues.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/PropertyAdditionalBuildings.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultInsuredRealEstateObjectService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1166">
+              <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/RealtyDto.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/AdditionalBuildingDto.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/shared/fieldvalueobject/Travelers.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/EstateEquipment.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/command/ServiceRequestCommandMapper.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/shared/fieldvalueobject/Beneficiaries.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/RuianAddressFieldContent.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/InsuranceEventsAmountsInYears.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/enums/FuelTypesEnum.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="682">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/fa5c716a3e3896fd7ec8caed1b2860050b1a6d52/jackson-databind-2.13.5-sources.jar!/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2618">
+              <caret line="127" selection-start-line="127" selection-end-line="127" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/fa5c716a3e3896fd7ec8caed1b2860050b1a6d52/jackson-databind-2.13.5-sources.jar!/com/fasterxml/jackson/databind/deser/std/StdValueInstantiator.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="5918">
+              <caret line="290" selection-start-line="290" selection-end-line="290" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultServiceRequestAsyncProcessor.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1100">
+              <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestConsumer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/ServiceRequestProcessor.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultServiceRequestProcessor.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="770">
+              <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/UpdateInsuranceRequestMessage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="506">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/ServiceRequestAsyncProcessor.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/UserUpdatedInsuranceRequestConsumer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultVehicleValueService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2486">
+              <caret line="159" column="43" selection-start-line="159" selection-start-column="43" selection-end-line="159" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="das://3c62f35d-87d1-4ae6-87d2-555b2ae319d5/database/dev2-rixo-offers/schema/public/table/vehicle_model_pricing">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1724308692717" presentationMode="TABLE" projectRestartId="65afe0ab-e481-4dc1-875f-79c1d5517a96" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/VehicleModelPricingRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/energy/electricity/EvaluatedElectricityOffer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller/EvaluationPackageArrangementControllerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="28204">
+              <caret line="1282" selection-start-line="1282" selection-end-line="1282" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller/EvaluationPackageControllerSetEvaluationPackageToWaitingForSignatureTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="11396">
+              <caret line="518" column="5" selection-start-line="518" selection-start-column="5" selection-end-line="518" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultValidationService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1892">
+              <caret line="134" column="43" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/InsuredObjectRequest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/servicerequest/impl/DefaultServiceRequestInsuredObjectCreatorService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="7326">
+              <caret line="350" column="40" selection-start-line="350" selection-start-column="40" selection-end-line="350" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/mapper/InsuredVehicleRequestMapper.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1342">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/utils/ServiceRequestCommandUtils.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2860">
+              <caret line="148" column="68" selection-start-line="148" selection-start-column="68" selection-end-line="148" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/ServiceRequestVersion.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/ServiceRequest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2266">
+              <caret line="146" column="22" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#124#1" expanded="true" />
+                <element signature="e#0#90#1" expanded="true" />
+                <element signature="e#0#38#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/KlappkaDataMap.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/command/ServiceRequestDataCommand.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/util/Map.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1078">
+              <caret line="240" column="6" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/vehicle/VehicleDto.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="506">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/vehicle/InsuredVehicleRequest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/command/ServiceRequestCommand.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/command/ServiceRequestVersionCommand.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1118,
+      "lastUsed": 1724308694632
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 7,
+      "lastUsed": 1721639095666
+    },
+    "DIFF": {
+      "usageCount": 57,
+      "lastUsed": 1724233296823
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1720605609602
+    },
+    "CLASS": {
+      "usageCount": 18,
+      "lastUsed": 1723802066590
+    },
+    "YAML": {
+      "usageCount": 4,
+      "lastUsed": 1723635070395
+    },
+    "SQL": {
+      "usageCount": 46,
+      "lastUsed": 1723800018518
+    },
+    "Database Element": {
+      "usageCount": 12,
+      "lastUsed": 1724308693369
+    },
+    "JSON": {
+      "usageCount": 8,
+      "lastUsed": 1724162761652
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resolveDailyCompensationInsuredSum</find>
+      <find>gla</find>
+      <find>rating</find>
+      <find>parameter</find>
+      <find>Neuvedeno</find>
+      <find>ANIMAL</find>
+      <find>vehicles/offers</find>
+      <find>LIFE_</find>
+      <find>LIFE_PARAMETER_CONST_DEATH</find>
+      <find>syncId</find>
+      <find>24000287</find>
+      <find>&quot;Evaluation package</find>
+      <find>&quot;/public-</find>
+      <find>debug</find>
+      <find>Air ba</find>
+      <find>Test</find>
+      <find>Air</find>
+      <find>Air Bank</find>
+      <find>drop col</find>
+      <find>create table evaluation_package</find>
+      <find>description</find>
+      <find>desc</find>
+      <find>MAX_ADDI</find>
+      <find>pair</find>
+      <find>?</find>
+      <find>switchDefa</find>
+      <find>discr</find>
+      <find>SuppressWarnings(&quot;checkstyle:</find>
+      <find>@SuppressWarnings(&quot;checkstyle:</find>
+      <find>FileLe</find>
+      <find>internal</find>
+      <find>excel</find>
+      <find>fillOther</find>
+      <find>shouldDownloadLifeArrangementProtocolForAdult_WhenRequestedWithoutChildren</find>
+      <find>suppress</find>
+      <find>null</find>
+      <find>des</find>
+      <find>Base_SHee</find>
+      <find>SHEET</find>
+      <find>SHEET_BASE</find>
+      <find>ErrorDetail;</find>
+      <find>whenRequestedWithou</find>
+      <find>enum</find>
+      <find>0f923e87-104b-4eea-bf7e-9e83246d14ac</find>
+      <find>49d1035e-417d-4843-9589-27633e7c1318</find>
+      <find>Fenka</find>
+      <find>kocour</find>
+      <find>7fcaa4a7-f814-4df7-a7a6-3ea18333f35f</find>
+      <find>216ed8de-3113-41b1-8435-fa1a45b78c62</find>
+      <find>92</find>
+      <find>gender</find>
+      <find>.gender</find>
+      <find>Map&lt;String, ServiceRequestDataCommand&gt; data = command.getLatestVersion()
+                .map(ServiceRequestVersionCommand::getData)
+                .orElse(null);</find>
+      <find>command.getLatestVersion()</find>
+      <find>KlappkaFieldValue (</find>
+      <find>KlappkaFieldValue</find>
+      <find>codebooksMicro</find>
+      <find>codebooksMicroservice</find>
+      <find>shouldStoreNewElectricityRequest_WithKnownConsumption</find>
+      <find>shouldCreateNewInsuranceObject_WithDynamicPropertiesRetrievingValuesFromCodebooks</find>
+      <find>contracts.</find>
+      <find>contracts.id&quot;</find>
+      <find>doReturn(AttributeResponse.builder()
+                .value(&quot;attribute1&quot;)
+                .build())
+                .when(codebooksMicroservice).getAttributeByValueIdAndCode(UUID.fromString(&quot;c74cc012-0238-40b8-897f-99360316e451&quot;), CONTRACTS_ID);</find>
+      <find>whenValid</find>
+      <find>valid</find>
+      <find>valid]</find>
+      <find>shouldFinalizeElectricityArrangement_WhenArrangementDataAlreadyStored</find>
+      <find>shouldUpdateEvaluationPackageToWaitingForSignature_WhenElectricityRequested</find>
+      <find>CONTRACTS_ID</find>
+      <find>contracts.id</find>
+      <find>shouldMapElectricity_WhenDataValid</find>
+      <find>eq(</find>
+      <find>eq(COntra</find>
+      <find>eq(COntr</find>
+      <find>shouldRespondWithBadRequest_WhenUpdateOrRebingObjectFails</find>
+      <find>energy-br</find>
+      <find>save</find>
+      <find>Offers was probably</find>
+      <find>custom</find>
+      <find>BigDeci</find>
+      <find>createEle</find>
+      <find>CreateGasOffersResponse</find>
+      <find>get(0)</find>
+      <find>offer evalu</find>
+      <find>.customerBehaviour(</find>
+      <find>/offers/{</find>
+      <find>/offers/{id}</find>
+      <find>nationality</find>
+      <find>6497901b-3839-412e-a755-913d5753ca9c</find>
+      <find>.get(CLIENT_NATIONALITY_ID)</find>
+      <find>Country</find>
+      <find>REQUEST</find>
+      <find>COUNTRY</find>
+      <find>CLIENT_SURNAME</find>
+      <find>country</find>
+      <find>_ID</find>
+      <find>CZECH_NATIONALITY_ID</find>
+      <find>CONTRACTS_I</find>
+      <find>CLIENT_NATIONALITY_ID</find>
+      <find>&quot;/service-re</find>
+      <find>language</find>
+      <find>/version</find>
+      <find>/latest-ver</find>
+      <find>2049619</find>
+      <find>ObjectMapper</find>
+      <find>\&quot;idempotentKey\&quot;:\&quot;3a6287ad-6939-45d2-b8de-ace49d4b9399\&quot;,\&quot;timestamp\&quot;:\&quot;2024-08-15T06:39:24.293584944Z\&quot;,\&quot;id\&quot;:\&quot;64bfec80-191e-45a1-8b43-799febe6f8de\&quot;,\&quot;legacyId\&quot;:2049619,\&quot;userId\&quot;:2045443,\&quot;serviceType\&quot;:\&quot;INSURANCE\&quot;,\&quot;insuranceType\&quot;:\&quot;VEHICLE\&quot;,\&quot;automaticOffer\&quot;:true,\&quot;finished\&quot;:true,\&quot;data\&quot;:[{\&quot;name\&quot;:\&quot;INSURED_PERSON_IS_POLICYHOLDER\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;name\&quot;:\&quot;vehicleHasRightSidedSteeringWheel\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;vehicleDriverUnderAgeOf24\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;CLIENT_LEGAL_TYPE\&quot;,\&quot;value\&quot;:{\&quot;enumValue\&quot;:\&quot;NATURAL_PERSON\&quot;}},{\&quot;name\&quot;:\&quot;vehicleIsLeased\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;VEHICLE_PURPOSE\&quot;,\&quot;value\&quot;:{\&quot;uuidValue\&quot;:\&quot;d4e4147d-c027-402b-a5ea-9a55024126b8\&quot;}},{\&quot;name\&quot;:\&quot;VEHICLE_WEIGHT\&quot;,\&quot;value\&quot;:{\&quot;intValue\&quot;:850}},{\&quot;name\&quot;:\&quot;VEHICLE_ENGINE_POWER\&quot;,\&quot;value\&quot;:{\&quot;decimalValue\&quot;:60}},{\&quot;name\&quot;:\&quot;CLIENT_PHONE_NUMBER\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;968161313\&quot;}},{\&quot;name\&quot;:\&quot;CLIENT_ZIP_CODE\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;04001\&quot;}},{\&quot;name\&quot;:\&quot;vehicleFourWheelDrive\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;VEHICLE_FIRST_REGISTRATION\&quot;,\&quot;value\&quot;:{\&quot;dateValue\&quot;:\&quot;2024-08-01\&quot;}},{\&quot;name\&quot;:\&quot;CLIENT_NAME\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;Richard\&quot;}},{\&quot;name\&quot;:\&quot;CLIENT_BIRTH_NUMBER\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;8810200014\&quot;}},{\&quot;name\&quot;:\&quot;VEHICLE_TYPE\&quot;,\&quot;value\&quot;:{\&quot;uuidValue\&quot;:\&quot;e408a8b1-390a-4eb5-b9fe-b34dd32e76de\&quot;}},{\&quot;name\&quot;:\&quot;VEHICLE_TOTAL_KM\&quot;,\&quot;value\&quot;:{\&quot;intValue\&quot;:15152}},{\&quot;name\&quot;:\&quot;VEHICLE_PAYMENT_PREFERENCE\&quot;,\&quot;value\&quot;:{\&quot;enumValue\&quot;:\&quot;YEAR\&quot;}},{\&quot;name\&quot;:\&quot;VEHICLE_ACCIDENT_REQUESTED\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;VEHICLE_WITHOUT_PLATE_NUMBER\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;insuranceEventsAmountsInYears\&quot;,\&quot;value\&quot;:{\&quot;objectValue\&quot;:{\&quot;type\&quot;:\&quot;InsuranceEventsAmountsInYears\&quot;}}},{\&quot;name\&quot;:\&quot;VEHICLE_BRAND\&quot;,\&quot;value\&quot;:{\&quot;uuidValue\&quot;:\&quot;f7b4f835-6e15-4aa9-bf00-f29c02167b9c\&quot;}},{\&quot;name\&quot;:\&quot;vehicleGearboxType\&quot;,\&quot;value\&quot;:{\&quot;uuidValue\&quot;:\&quot;301b982e-39b0-4bf9-97df-f8957f39425e\&quot;}},{\&quot;name\&quot;:\&quot;ownerSameAsClient\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;name\&quot;:\&quot;VEHICLE_YEARLY_KM\&quot;,\&quot;value\&quot;:{\&quot;enumValue\&quot;:\&quot;BETWEEN_6001_7000\&quot;}},{\&quot;name\&quot;:\&quot;CLIENT_SURNAME\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;Bares\&quot;}},{\&quot;name\&quot;:\&quot;holderInsuredVehiclesAmount\&quot;,\&quot;value\&quot;:{\&quot;intValue\&quot;:1}},{\&quot;name\&quot;:\&quot;VEHICLE_NUMBER_OF_SEATS\&quot;,\&quot;value\&quot;:{\&quot;intValue\&quot;:5}},{\&quot;name\&quot;:\&quot;vehicleNotRegisteredInSlovakia\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:false}},{\&quot;name\&quot;:\&quot;vehicleParkingAssistant\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;name\&quot;:\&quot;VEHICLE_ENGINE_CAPACITY\&quot;,\&quot;value\&quot;:{\&quot;intValue\&quot;:1500}},{\&quot;name\&quot;:\&quot;CLIENT_CITY\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;Kosice\&quot;}},{\&quot;name\&quot;:\&quot;VEHICLE_LIABILITY_REQUESTED\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;name\&quot;:\&quot;VEHICLE_MODEL\&quot;,\&quot;value\&quot;:{\&quot;uuidValue\&quot;:\&quot;fdb4986f-39cc-4344-a227-3457b345cc9f\&quot;}},{\&quot;name\&quot;:\&quot;holderInsuredInPast\&quot;,\&quot;value\&quot;:{\&quot;boolValue\&quot;:true}},{\&quot;name\&quot;:\&quot;VEHICLE_PLATE_NUMBER\&quot;,\&quot;value\&quot;:{\&quot;stringValue\&quot;:\&quot;8AK5815\&quot;}},{\&quot;name\&quot;:\&quot;VEHICLE_FUEL_TYPE\&quot;,\&quot;value\&quot;:{\&quot;uuidValue\&quot;:\&quot;5703b8f4-c2fa-46b9-b4d1-a688979aef9e\&quot;}}]}</find>
+      <find>\&quot;</find>
+      <find>type</find>
+      <find>HolderInsuredInPastField</find>
+      <find>shouldUpdateInsuranceRequest_WithMultipleSports</find>
+      <find>createPerson</find>
+      <find>switch</find>
+      <find>UNDER</find>
+      <find>vehicleDriverUnderAgeOf24</find>
+      <find>date</find>
+      <find>object</find>
+      <find>insuranceEventsAmountsInYears</find>
+      <find>sport</find>
+      <find>gear</find>
+      <find>amountsPerRangeMax</find>
+      <find>userUpdatedServiceRequest</find>
+      <find>&quot;userUpdatedServiceRequest&quot;</find>
+      <find>@value</find>
+      <find>Exception during evaluation from updating insurance request</find>
+      <find>automaticOffer</find>
+      <find>Duration</find>
+      <find>VEHICLE_PURPOSE</find>
+      <find>37b412e1-1556-4fcb-b622-1ef773198b4c</find>
+      <find />
+      <find>shouldUpdateServiceRequestAndPublishOffer_WithValidRequest</find>
+      <find>OpenStreamFeignConfig</find>
+      <find>fet</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>NULL</replace>
+      <replace>getFirst()</replace>
+      <replace>&quot;</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/enums/mapper</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service</dir>
+      <dir>$PROJECT_DIR$/src/main/resources</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/sql/evaluation-package-arrangement</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/sql/evaluation-package</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/sql/service-request</dir>
+      <dir>$PROJECT_DIR$/src/test/resources</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/arrangementprotocol/life/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/vehicle</dir>
+      <dir>$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/service/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/energy/electricity</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/domain</dir>
+      <dir>$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/person</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/servicedata/modifier</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/controller</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/vehicle/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/arrangementprotocol/vehicle/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/life/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/utils</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/shared</dir>
+      <dir>$PROJECT_DIR$/src/test/resources/cz/hc/dok/offers/messaging/listener</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto</dir>
+      <dir>$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/controller</dir>
+      <dir>$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[bug]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[feature]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[task]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/energy/electricity/ElectricityOfferService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/calcindex/energy/ElectricityEvaluationRequest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/calcindex/energy/GasEvaluationRequest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/CostComposition.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/energy/electricity/ElectricityAutoEvaluator.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/result/mapper/OfferEvaluationCostComposition.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/result/mapper/OfferEvaluationCostResultComposition.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/result/OfferEvaluationCostComposition.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/result/OfferEvaluationCostCompositionResult.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/result/OfferEvaluationResult.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/mapper/EvaluationPackageResultMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/controller/dto/evaluationpackage/OfferEvaluationCostCompositionResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/controller/dto/evaluationpackage/OfferEvaluationResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/result/mapper/OfferEvaluationCostCompositionResultMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/db/migration/V4_20240813112129__offer_evaluation_cost_composition.sql" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/evaluation/energy/gas/DefaultGasOfferServiceTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/OfferEvaluation.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/OfferEvaluationCostComposition.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/energy/CreateElectricityOffersResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/energy/CreateElectricityOfferResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/energy/CreateGasOffersResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/energy/CreateGasOfferResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/OfferEvaluationCostCompositionMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/mapper/OfferEvaluationCustomerBehaviourMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/controller/offer/OfferEvaluationDto.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/mapper/OfferEvaluationCostCompositionMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/controller/DefaultOfferEvaluationRequestMapper.java" />
+      <option value="$PROJECT_DIR$/src/test/resources/sql/evaluation-package/evaluation-package-3.sql" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/controller/offer/mapper/OfferEvaluationCostCompositionResponseMapper.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/evaluation/energy/gas/GasAutoEvaluatorTest.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller/OfferControllerGetOfferPackageTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/domain/OfferEvaluationMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/person/PersonResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/servicedata/modifier/VehicleForeignerPersonsServiceRequestModifier.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserCreatedServiceRequestConsumerTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/enums/Language.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestConsumer.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/fooTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/KlappkaFieldObjectValue.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/ContractsMicroservice.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller/EvaluationPackageArrangementControllerGetPdfArrangementProtocolTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/arrangementprotocol/vehicle/impl/VehicleArrangementProtocolService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/vehicle/impl/SkVehicleAutoEvaluator.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/shared/ServiceRequestDataNames.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/utils/ServiceRequestDataUtils.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserUpdatedInsuranceRequestConsumerTest.java" />
+      <option value="$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestConsumerTest.java" />
+      <option value="$PROJECT_DIR$/src/test/resources/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestMessage.json" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/InsuranceEventsAmountsInYears.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/enums/FuelTypesEnum.java" />
+      <option value="$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/controller/InsuredObjectPropertyRequestMapper.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1118" lastUsage="1724308694632" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1724162761652" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1720605609602" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="10" lastUsage="1723800018518" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="7" lastUsage="1721639095667" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="4" lastUsage="1723635070395" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java/cz/hc/dok/offers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java/cz/hc/dok/offers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java/cz/hc/dok/offers/messaging}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java/cz/hc/dok/offers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java/cz/hc/dok/offers/messaging}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/java/cz/hc/dok/offers/messaging/listener}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/resources/cz/hc/dok/offers/messaging/listener}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rixo-offers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/huginn/rixo/rixo-offers/src/test/resources/excel}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Remote JVM Debug.5005" />
+      <element setting="Gradle.UserUpdatedServiceRequestConsumerTest.shouldUpdateServiceRequest_WithMultipleSports" />
+      <element setting="Gradle.UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" />
+      <element setting="Gradle.UserUpdatedServiceRequestConsumerTest.shouldCreateServiceRequestVersion_WithValidRequest" />
+      <element setting="Gradle.UserUpdatedInsuranceRequestConsumerTest" />
+      <element setting="Gradle.UserCreatedServiceRequestConsumerTest.shouldNotAutofillNationalityForPersons_WhenCountryIsNotCzechia" />
+      <element setting="Gradle.UserCreatedServiceRequestConsumerTest.shouldNotFillNationalityForPersons_WhenCountryIsNotCzechia" />
+      <element setting="Gradle.UserCreatedServiceRequestConsumerTest" />
+      <element setting="Gradle.UserCreatedServiceRequestConsumerTest.shouldStoreNewInsuranceRequest_ForSamePerson" />
+      <element setting="Gradle.OfferControllerGetOfferPackageTest.shouldReturnOfferPackage_WhenRequested" />
+      <element setting="Gradle.GasAutoEvaluatorTest" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="postgres@rixocz-dev-pgsql.postgres.database.azure.com: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="rixo-offers-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest - 2024.08.15 at 10h 55m 36s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedServiceRequestConsumerTest_shouldCreateServiceRequestVersion_WithValidRequest - 2024.08.16 at 10h 45m 44s.xml">
+      <configuration name="UserUpdatedServiceRequestConsumerTest.shouldCreateServiceRequestVersion_WithValidRequest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest_shouldUpdateInsuranceRequest_WithMultipleSports - 2024.08.16 at 10h 47m 53s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest_shouldUpdateInsuranceRequest_WithMultipleSports - 2024.08.16 at 10h 49m 37s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest_shouldUpdateInsuranceRequest_WithMultipleSports - 2024.08.16 at 10h 53m 08s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest_shouldUpdateInsuranceRequest_WithMultipleSports - 2024.08.16 at 10h 56m 55s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest_shouldUpdateInsuranceRequest_WithMultipleSports - 2024.08.16 at 10h 57m 44s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedInsuranceRequestConsumerTest_shouldUpdateInsuranceRequest_WithMultipleSports - 2024.08.16 at 11h 02m 35s.xml">
+      <configuration name="UserUpdatedInsuranceRequestConsumerTest.shouldUpdateInsuranceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedServiceRequestConsumerTest_shouldUpdateServiceRequest_WithMultipleSports - 2024.08.16 at 11h 20m 29s.xml">
+      <configuration name="UserUpdatedServiceRequestConsumerTest.shouldUpdateServiceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="UserUpdatedServiceRequestConsumerTest_shouldUpdateServiceRequest_WithMultipleSports - 2024.08.16 at 11h 22m 19s.xml">
+      <configuration name="UserUpdatedServiceRequestConsumerTest.shouldUpdateServiceRequest_WithMultipleSports" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78218000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24401042" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.24401042" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33029723" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33008215" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3300926" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3305169" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33029723" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.33086056" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.32987142" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.13359375" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.07369791" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3300926" left="0.24401042" right="0.13359375" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Find</value>
+      <value>Build</value>
+      <value>Services</value>
+      <value>Gradle</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="189" width="819" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1723801418213">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="189" width="800" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723459994150" />
+    <state x="2475" y="189" width="819" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418213" />
+    <state x="2475" y="215" width="819" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720702189620" />
+    <state x="2679" y="190" width="402" height="632" key="#com.intellij.ide.util.MemberChooser" timestamp="1723450105338">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="190" width="402" height="632" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723450105338" />
+    <state x="2601" y="380" width="603" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1723548984265">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2601" y="380" width="603" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723548984265" />
+    <state x="2591" y="289" width="568" height="435" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1723450061786">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2591" y="289" width="568" height="435" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723450061786" />
+    <state x="3271" y="367" width="372" height="318" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1723548121981">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1351" y="388" width="372" height="318" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723542937094" />
+    <state x="3271" y="367" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723548121981" />
+    <state x="2613" y="250" width="524" height="512" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1723032265743">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="250" width="524" height="512" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723032265743" />
+    <state x="2553" y="176" width="643" height="713" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1724225053858">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2553" y="176" width="643" height="713" key="#com.intellij.unscramble.UnscrambleDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1724225053858" />
+    <state x="2553" y="203" width="643" height="713" key="#com.intellij.unscramble.UnscrambleDialog/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720709320992" />
+    <state x="2663" y="289" width="424" height="495" key="FileChooserDialogImpl" timestamp="1724249843378">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="312" width="424" height="495" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1724136088921" />
+    <state x="2663" y="289" width="424" height="495" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1724249843378" />
+    <state x="4583" y="289" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1724240248470" />
+    <state x="743" y="312" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1723809048997" />
+    <state x="2663" y="289" key="FileChooserDialogImpl/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723187460785" />
+    <state x="4583" y="289" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1920.1080/0.32.1920.1048@3840.0.1920.1080" timestamp="1723039020776" />
+    <state x="2663" y="312" width="424" height="495" key="FileChooserDialogImpl/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1721218806880" />
+    <state x="2663" y="289" width="424" height="495" key="FileChooserDialogImpl/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721720957702" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723724454235" />
+    <state width="1838" height="303" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723712213327" />
+    <state width="1838" height="302" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418364" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723724454235" />
+    <state width="1838" height="303" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723712213327" />
+    <state width="1838" height="302" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418364" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723724454235" />
+    <state width="1838" height="303" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723712213327" />
+    <state width="1838" height="302" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418364" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908586" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723724454235" />
+    <state width="1838" height="303" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723712213327" />
+    <state width="1838" height="302" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418364" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state width="1838" height="291" key="GridCell.Tab.1.bottom" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722427678846" />
+    <state width="1828" height="290" key="GridCell.Tab.1.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723630556205" />
+    <state width="1838" height="302" key="GridCell.Tab.1.bottom/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418288" />
+    <state width="1838" height="291" key="GridCell.Tab.1.bottom/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state width="1838" height="291" key="GridCell.Tab.1.center" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722427678846" />
+    <state width="1828" height="290" key="GridCell.Tab.1.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723630556205" />
+    <state width="1838" height="302" key="GridCell.Tab.1.center/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.1.center/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418288" />
+    <state width="1838" height="291" key="GridCell.Tab.1.center/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state width="1838" height="291" key="GridCell.Tab.1.left" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722427678846" />
+    <state width="1828" height="290" key="GridCell.Tab.1.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723630556205" />
+    <state width="1838" height="302" key="GridCell.Tab.1.left/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.1.left/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418288" />
+    <state width="1838" height="291" key="GridCell.Tab.1.left/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state width="1838" height="291" key="GridCell.Tab.1.right" timestamp="1723809050491">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="302" key="GridCell.Tab.1.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722427678846" />
+    <state width="1828" height="290" key="GridCell.Tab.1.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723630556205" />
+    <state width="1838" height="302" key="GridCell.Tab.1.right/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1723459703790" />
+    <state width="1838" height="291" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050491" />
+    <state width="1838" height="291" key="GridCell.Tab.1.right/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801418288" />
+    <state width="1838" height="291" key="GridCell.Tab.1.right/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720703908587" />
+    <state x="2102" y="109" width="1536" height="875" key="MergeDialog" timestamp="1723628859349">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2165" y="119" width="1536" height="875" key="MergeDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722344614535" />
+    <state x="2102" y="109" width="1536" height="875" key="MergeDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723628859349" />
+    <state x="2493" y="297" width="764" height="455" key="MultipleFileMergeDialog" timestamp="1723628861555">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2493" y="304" width="764" height="455" key="MultipleFileMergeDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722344614538" />
+    <state x="2493" y="297" width="764" height="492" key="MultipleFileMergeDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723628861555" />
+    <state x="2685" y="260" width="380" height="560" key="RollbackChangesDialog" timestamp="1724220997309">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2685" y="260" width="380" height="560" key="RollbackChangesDialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1724220997309" />
+    <state x="2685" y="260" width="380" height="560" key="RollbackChangesDialog/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721642787413" />
+    <state x="2384" y="175" width="992" height="737" key="SettingsEditor" timestamp="1723450713942">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="187" width="992" height="737" key="SettingsEditor/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1722433238970" />
+    <state x="2384" y="175" width="992" height="737" key="SettingsEditor/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723450713942" />
+    <state width="861" height="1078" key="SwitcherDM" timestamp="1722256143640">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="861" height="1078" key="SwitcherDM/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1722256143640" />
+    <state width="960" height="524" key="XDebugger.FullValuePopup" timestamp="1720682653011">
+      <screen x="1920" y="32" width="1920" height="1048" />
+    </state>
+    <state width="960" height="524" key="XDebugger.FullValuePopup/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1720682653011" />
+    <state x="2020" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1723809050643">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="2020" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1723809050643" />
+    <state x="2020" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723798346062" />
+    <state x="2613" y="231" width="534" height="551" key="extract.method.dialog" timestamp="1723447281686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="231" width="534" height="551" key="extract.method.dialog/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723447281686" />
+    <state x="2644" y="139" width="1003" height="602" key="find.popup" timestamp="1724249840653">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2644" y="144" width="1003" height="602" key="find.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1724136083474" />
+    <state x="2644" y="139" width="1003" height="602" key="find.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1724249840653" />
+    <state x="4564" y="139" width="1003" height="602" key="find.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1724240210632" />
+    <state x="724" y="167" width="1003" height="585" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1723711198680" />
+    <state x="724" y="167" width="1003" height="585" key="find.popup/1920.0.1920.1080/0.32.1920.1048@0.32.1920.1048" timestamp="1723795824428" />
+    <state x="2644" y="139" width="1003" height="603" key="find.popup/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723801271443" />
+    <state x="2644" y="167" width="744" height="576" key="find.popup/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1721214591344" />
+    <state x="2644" y="139" width="1003" height="594" key="find.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721645576128" />
+    <state x="4463" y="227" width="678" height="719" key="search.everywhere.popup" timestamp="1724240207591">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="252" width="678" height="697" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@0.32.1920.1048" timestamp="1723724372626" />
+    <state x="2521" y="175" width="678" height="697" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1723712229825" />
+    <state x="4463" y="227" width="678" height="719" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080/3840.0.1920.1080@3840.0.1920.1080" timestamp="1724240207591" />
+    <state x="601" y="202" width="678" height="677" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1723711705280" />
+    <state x="2543" y="227" width="678" height="719" key="search.everywhere.popup/1920.0.1920.1080/0.32.1920.1048@1920.0.1920.1080" timestamp="1723798753009" />
+    <state x="2543" y="252" width="672" height="696" key="search.everywhere.popup/1920.32.1920.1048/0.0.1920.1080@1920.32.1920.1048" timestamp="1721214616240" />
+    <state x="623" y="227" width="672" height="718" key="search.everywhere.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1721632100512" />
+    <state x="2543" y="227" width="672" height="718" key="search.everywhere.popup/3840.32.1920.1048/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1721645837216" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getUserUpdatedServiceRequestMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>offerEvaluationRepository.findAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>excelInputCommand.arrangementCommand.getFinalizationMethod().name()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sheet.getRow(rowNumber).setHeightInPoints(11 * (float) (content.length() * EXPECTED_WIDTH_OF_CHARACTER) / contentWidth);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>11 * (float) (content.length() * EXPECTED_WIDTH_OF_CHARACTER) / contentWidth</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contentWidth / (content.length() / 5)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>887/5</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contentWidth / 5</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contentWidth5</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contentWidth / 11</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sheet.getRow(88).setHeightInPoints(10)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((XSSFCell) cell).getStylesSource().getFontAt(cell.getCellStyle().getFontIndex()).getFontHeightInPoints()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.poi.xssf.usermodel.XSSFCell</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((XSSFCell) cell).getStylesSource().getFontAt(cell.getCellStyle().getFontIndex()).getFontHeight()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.poi.xssf.usermodel.XSSFCell</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((XSSFCell) cell).getStylesSource().getFontAt(cell.getCellStyle().getFontIndex())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.poi.xssf.usermodel.XSSFCell</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getCellStyle().getFontIndex()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.poi.xssf.usermodel.XSSFCell</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getCellStyle()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.poi.xssf.usermodel.XSSFCell</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((XSSFCell) cell).getStylesSource()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.poi.xssf.usermodel.XSSFCell</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getCellStyle().getShrinkToFit()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getCellStyle().getDataFormatString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getCellStyle()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cell.getCellStyle().getFontIndex()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>singleZeteoOffersResults.getFirst().getZeteoOffers()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>errorDetails.getLast()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>errorDetails.getFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>errorDetails.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mapFromServiceRequestCommand(command)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>evaluationPackage</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>evaluationPackage.getOffer()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>command.getInsuredPersonId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestMessage.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/UserUpdatedServiceRequestMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/InsuredObjectPropertyRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/controller/InsuredObjectPropertyRequestMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4356">
+          <caret line="262" column="57" selection-start-line="262" selection-start-column="57" selection-end-line="262" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserUpdatedInsuranceRequestConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17072">
+          <caret line="917" column="9" selection-start-line="917" selection-start-column="9" selection-end-line="917" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/test/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/KlappkaFieldValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/KlappkaFieldObjectValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/UploadedContractsWizardValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/SportsWizardValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/PropertyAdditionalBuildings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultInsuredRealEstateObjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/RealtyDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/AdditionalBuildingDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/shared/fieldvalueobject/Travelers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/EstateEquipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/mapping/command/ServiceRequestCommandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/shared/fieldvalueobject/Beneficiaries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/RuianAddressFieldContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/dto/InsuranceEventsAmountsInYears.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/enums/FuelTypesEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/fa5c716a3e3896fd7ec8caed1b2860050b1a6d52/jackson-databind-2.13.5-sources.jar!/com/fasterxml/jackson/databind/introspect/AnnotatedConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/fa5c716a3e3896fd7ec8caed1b2860050b1a6d52/jackson-databind-2.13.5-sources.jar!/com/fasterxml/jackson/databind/deser/std/StdValueInstantiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5918">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultServiceRequestAsyncProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/ServiceRequestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultServiceRequestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/publisher/dto/UpdateInsuranceRequestMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/ServiceRequestAsyncProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/messaging/listener/UserUpdatedInsuranceRequestConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultVehicleValueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="159" column="43" selection-start-line="159" selection-start-column="43" selection-end-line="159" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c62f35d-87d1-4ae6-87d2-555b2ae319d5/database/dev2-rixo-offers/schema/public/table/vehicle_model_pricing">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1724308692717" presentationMode="TABLE" projectRestartId="65afe0ab-e481-4dc1-875f-79c1d5517a96" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/VehicleModelPricingRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/evaluation/energy/electricity/EvaluatedElectricityOffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller/EvaluationPackageArrangementControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28204">
+          <caret line="1282" selection-start-line="1282" selection-end-line="1282" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/controller/EvaluationPackageControllerSetEvaluationPackageToWaitingForSignatureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11396">
+          <caret line="518" column="5" selection-start-line="518" selection-start-column="5" selection-end-line="518" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/impl/DefaultValidationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="134" column="43" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/InsuredObjectRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/servicerequest/impl/DefaultServiceRequestInsuredObjectCreatorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7326">
+          <caret line="350" column="40" selection-start-line="350" selection-start-column="40" selection-end-line="350" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/mapper/InsuredVehicleRequestMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/utils/ServiceRequestCommandUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="148" column="68" selection-start-line="148" selection-start-column="68" selection-end-line="148" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/ServiceRequestVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/offer/ServiceRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="146" column="22" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#124#1" expanded="true" />
+            <element signature="e#0#90#1" expanded="true" />
+            <element signature="e#0#38#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/domain/KlappkaDataMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/command/ServiceRequestDataCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="240" column="6" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/vehicle/VehicleDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/repository/impl/contract/vehicle/InsuredVehicleRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/command/ServiceRequestCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/hc/dok/offers/service/command/ServiceRequestVersionCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cz/hc/dok/offers/messaging/listener/UserUpdatedServiceRequestConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="265" column="91" selection-start-line="265" selection-start-column="91" selection-end-line="265" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

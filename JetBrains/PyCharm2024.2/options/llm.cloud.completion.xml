@@ -1,0 +1,8 @@
+<application>
+  <component name="ExplicitFeedbackState">
+    <languageToSessions>
+      <entry language="JupyterPython" sessions-count="5" />
+    </languageToSessions>
+    <option name="acceptedCompletionsCnt" value="4" />
+  </component>
+</application>

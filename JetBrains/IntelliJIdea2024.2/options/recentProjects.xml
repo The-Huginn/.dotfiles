@@ -1,0 +1,363 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/rixo/rixo-sf-bridge">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-sf-bridge [~/rixo/rixo-sf-bridge] – /home/huginn/rixo/rixo-sf-bridge/src/main/java/cz/hc/dok/sfbridge/enums/CashbackTransactionStatus.java" projectWorkspaceId="2jJvm6GJcQ7GZYt1DtWvea5bEno">
+              <option name="activationTimestamp" value="1726062903590" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1043" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1726061813486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-financials">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-financials [~/rixo/rixo-financials] – /home/huginn/rixo/rixo-financials/src/main/java/cz/rixo/financials/controller/payment/ContractPaymentsController.java" projectWorkspaceId="2ie5ap2iVUQbcuLxi84bPohAtVJ">
+              <option name="activationTimestamp" value="1727075573593" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1727074883333" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-external-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-external-api [~/rixo/rixo-external-api] – /home/huginn/rixo/rixo-external-api/src/main/java/cz/rixo/externalapi/controller/pillow/PillowController.java" projectWorkspaceId="2lxmvUvUN3pigSOONfZTOpLuluC">
+              <option name="activationTimestamp" value="1727974475103" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="-37" width="1920" height="1117" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1727075574617" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/sco/keccakj">
+          <value>
+            <RecentProjectMetaInfo frameTitle="keccakj [~/vut/2024-winter/sco/keccakj] – pom.xml (keccakj)" projectWorkspaceId="2mw4o8cPJ0OhAptu6GxBF8j9rlG">
+              <option name="activationTimestamp" value="1727975554918" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="-37" width="1920" height="1117" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1727974476260" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/sco/zkp-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="zkp-api [~/vut/2024-winter/sco/zkp-api] – pom.xml (zkp-api)" projectWorkspaceId="2mkGhuTiapVHkjma9xmfyDtuXOw">
+              <option name="activationTimestamp" value="1728216706644" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="3840" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1728070860161" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/sco/bulletproofs">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2n1rlZrFQ96Uc3zh4lBSoDclegf">
+              <option name="activationTimestamp" value="1728207389431" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1728151574482" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/sco/bulletproofs-composite">
+          <value>
+            <RecentProjectMetaInfo frameTitle="$USER_HOME$/vut/2024-winter/sco/bulletproofs-composite/src/test/kotlin/com/thehuginn/bulletproofs/composite/CompositeApiTest.kt" projectWorkspaceId="2mkGhuTiapVHkjma9xmfyDtuXOw">
+              <option name="activationTimestamp" value="1729492584238" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1729263355537" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/sco/bulletproofs-gadgets">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bulletproofs-gadgets [~/vut/2024-winter/sco/bulletproofs-gadgets] – /home/huginn/vut/2024-winter/sco/bulletproofs-gadgets/src/test/java/com/weavechain/zk/bulletproofs/NumberInRangeTest.java" projectWorkspaceId="2mxzwYhBwkNfveSgUpUDoyTGCMB">
+              <option name="activationTimestamp" value="1729513034955" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1729263654233" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-commons">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-commons [~/rixo/rixo-commons] – /home/huginn/rixo/rixo-commons/rixo-commons-autoconfigure/src/main/kotlin/cz/rixo/commons/validation/validplatenumber/PlateNumberDefinition.kt" projectWorkspaceId="2k31CbkFSB1ntpcRX8CnYtFdSRh">
+              <option name="activationTimestamp" value="1730381996101" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.20224.419" />
+              <option name="buildTimestamp" value="1724084760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="580" y="1480" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1729671696249" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-calc-index">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-calc-index [~/rixo/rixo-calc-index] – /home/huginn/rixo/rixo-calc-index/src/main/java/cz/rixo/calc/index/client/ProductCatalogMicroservice.java" projectWorkspaceId="2j5kVbuZv4n4bkvdtrm7MVLL6jn">
+              <option name="activationTimestamp" value="1730449093958" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1921" y="40" width="1920" height="1018" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730448898244" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-contracts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-contracts [~/rixo/rixo-contracts] – /home/huginn/rixo/rixo-contracts/src/main/java/cz/hc/dok/contracts/repository/impl/product/ProductFilterDto.java" projectWorkspaceId="2ijFkWZExmM9yaqdbcHHyXYOjSZ">
+              <option name="activationTimestamp" value="1730451406555" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1921" y="60" width="1920" height="998" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730450828933" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-codebooks">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-codebooks [~/rixo/rixo-codebooks] – flyway_sc…ma_history [postgres@pgsql.dev.rixo.internal]" projectWorkspaceId="2jHV8Y6pfH5VGO3soqY9Iyn4usi">
+              <option name="activationTimestamp" value="1730452237687" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1921" y="60" width="1916" height="976" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730451755522" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-klappka-be">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-klappka-be [~/rixo/rixo-klappka-be] – /home/huginn/rixo/rixo-klappka-be/src/main/java/cz/rixo/klappka/controller/codebooks/dto/BusinessProductEnumValue.java" projectWorkspaceId="2idtvhzbhKnddqDwdooo3oOgFqX">
+              <option name="activationTimestamp" value="1730453145390" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="3842" y="40" width="1920" height="1018" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730452249024" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-zeteo-bridge">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-insurance-bridge [~/rixo/rixo-zeteo-bridge] – /home/huginn/rixo/rixo-zeteo-bridge/src/main/java/cz/rixo/zeteobridge/service/product/ProductCatalogClient.java" projectWorkspaceId="2igOdtDHg5SU5CDzdcmiSDneGpL">
+              <option name="activationTimestamp" value="1730543451866" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1058" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730453156555" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-product-catalog">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-product-catalog [~/rixo/rixo-product-catalog] – /home/huginn/rixo/rixo-product-catalog/src/main/java/cz/rixo/productcatalog/controller/product/dto/ServiceProductResponse.java" projectWorkspaceId="2jHLCELF3zVaH4l5bsjxv4QY4tn">
+              <option name="activationTimestamp" value="1730480341462" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="2180" y="40" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730455558535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-energy-bridge">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-energy-bridge [~/rixo/rixo-energy-bridge] – /home/huginn/rixo/rixo-energy-bridge/src/main/kotlin/cz/rixo/energybridge/repository/core/SequenceRepository.kt" projectWorkspaceId="2jxQgr37qQgPSQ5bzL9QQf8lNn8">
+              <option name="activationTimestamp" value="1730547328612" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="3840" y="0" width="1920" height="1058" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730547284826" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-customer-rewards">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-customer-rewards [~/rixo/rixo-customer-rewards] – /home/huginn/rixo/rixo-customer-rewards/src/main/kotlin/cz/rixo/customerrewards/messaging/produced/cashback/mapper/CustomerRewardTransferredMessageMapper.kt" projectWorkspaceId="2kyJa1vtb2oPTmOQiwFzEmyps6q">
+              <option name="activationTimestamp" value="1730547430187" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1058" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730547332623" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-file-storage">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-file-storage [~/rixo/rixo-file-storage] – /home/huginn/rixo/rixo-file-storage/src/test/java/cz/rixo/storage/test/SpringTest.java" projectWorkspaceId="2jbW9KyjSaWcn8Ey0tw0opaD4Bb">
+              <option name="activationTimestamp" value="1730564359004" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1058" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730547434553" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/pdb/woltora/influx-db-dev-service-extension">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2oLSaXpzQ3ecU3htizGtW5kVHFc">
+              <option name="activationTimestamp" value="1730797529900" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730647427213" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vut/2024-winter/pdb/woltora">
+          <value>
+            <RecentProjectMetaInfo opened="true">
+              <option name="activationTimestamp" value="1730794568641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-insurance-bridge-sk">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-insurance-bridge-sk [~/rixo/rixo-insurance-bridge-sk] – /home/huginn/rixo/rixo-insurance-bridge-sk/src/test/kotlin/sk/rixo/insurancebridge/controller/VehiclesControllerCreateOffersTest.kt" projectWorkspaceId="2lVvBkccaTnTszlrANZn4g2sInh">
+              <option name="activationTimestamp" value="1730799389742" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="346" y="53" width="1868" height="1334" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730794593385" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-offers">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rixo-offers [~/rixo/rixo-offers] – /home/huginn/rixo/rixo-offers/src/main/java/cz/hc/dok/offers/evaluation/vehicle/impl/SkVehicleAutoEvaluator.java" opened="true" projectWorkspaceId="2idU6JWtGNXQ3AJ1ZFrO6PC1mVu">
+              <option name="activationTimestamp" value="1730797786859" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="3840" y="0" width="1920" height="1058" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730797540648" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/rixo/rixo-oauth-server">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2mpuowJhBreuJyPbkU2uBIQQDUV">
+              <option name="activationTimestamp" value="1730799393734" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23726.103" />
+              <option name="buildTimestamp" value="1729660500000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1730799393616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/rixo/rixo-oauth-server" />
+    <option name="lastProjectLocation" value="$USER_HOME$/vut/2024-winter/pdb/woltora" />
+  </component>
+</application>
