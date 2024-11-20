@@ -1,1 +1,0 @@
-select * from codebook where id = '49687c09-1f1e-4c06-a18c-7e9ee691921c';

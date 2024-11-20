@@ -12,11 +12,8 @@ mode 1920x1080
 pos 0x0
 primary
 rate 60.01
-x-prop-colorspace Default
-x-prop-max_bpc 16
 x-prop-non_desktop 0
 x-prop-scaling_mode None
-x-prop-underscan off
 x-prop-underscan_hborder 0
 x-prop-underscan_vborder 0
 output DP-4
@@ -24,22 +21,16 @@ crtc 1
 mode 1920x1080
 pos 1921x0
 rate 60.00
-x-prop-colorspace Default
-x-prop-max_bpc 8
 x-prop-non_desktop 0
 x-prop-scaling_mode None
-x-prop-underscan off
 x-prop-underscan_hborder 0
 x-prop-underscan_vborder 0
 output DP-5
 crtc 2
 mode 1920x1080
-pos 3841x0
+pos 3842x0
 rate 60.00
-x-prop-colorspace Default
-x-prop-max_bpc 8
 x-prop-non_desktop 0
 x-prop-scaling_mode None
-x-prop-underscan off
 x-prop-underscan_hborder 0
 x-prop-underscan_vborder 0

@@ -1,8 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="50" />
-    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
-    <option name="BORDERLESS_MODE" value="false" />
-    <option name="SHOW_ICONS_IN_MENUS" value="false" />
-  </component>
-</application>

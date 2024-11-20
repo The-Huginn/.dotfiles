@@ -215,6 +215,7 @@ exec_always --no-startup-id xmodmap -e "clear mod4"
 exec_always --no-startup-id xmodmap -e "add Mod4 = Super_L"
 bindsym Mod4+l exec ~/scripts/i3/custom_lock.sh
 bindsym Mod4 exec ~/scripts/i3/custom_lock.sh
+bindsym $mod+F3 exec --no-startup-id ~/scripts/i3/bluetooth_connect.sh
 exec_always --no-startup-id ~/scripts/i3/lock.sh
 
 bindsym $mod+Shift+Prior  move workspace to output left

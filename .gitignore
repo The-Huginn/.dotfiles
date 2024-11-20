@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+
+!autorandr
+!i3
+!ranger
+!tmux
+!JetBrains/*/keymaps/*
+!JetBrains/*/options
+!JetBrains/*/options/

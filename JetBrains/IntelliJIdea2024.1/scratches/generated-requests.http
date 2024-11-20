@@ -1,2 +1,0 @@
-###
-GET http://${rixo.file-storage.uri}/api/rixo-sf-bridge/users/{{userId}}/files/{{fileId}}/download

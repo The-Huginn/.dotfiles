@@ -6,9 +6,13 @@ output DP-2
 off
 output DP-3
 off
-output DP-6
+output DP-4
 off
-output DP-7
+output DP-5
+off
+output DP-8
+off
+output DP-9
 off
 output eDP-1
 crtc 0
@@ -16,34 +20,25 @@ mode 1920x1080
 pos 0x0
 primary
 rate 60.01
-x-prop-colorspace Default
-x-prop-max_bpc 16
 x-prop-non_desktop 0
 x-prop-scaling_mode None
-x-prop-underscan off
-x-prop-underscan_hborder 0
-x-prop-underscan_vborder 0
-output DP-4
-crtc 1
-mode 1920x1080
-pos 1920x0
-rate 164.96
-x-prop-colorspace Default
-x-prop-max_bpc 8
-x-prop-non_desktop 0
-x-prop-scaling_mode None
-x-prop-underscan off
 x-prop-underscan_hborder 0
 x-prop-underscan_vborder 0
 output DP-5
-crtc 2
+crtc 1
 mode 1920x1080
-pos 3840x0
-rate 60.00
-x-prop-colorspace Default
-x-prop-max_bpc 8
+pos 1921x0
+rate 164.96
 x-prop-non_desktop 0
 x-prop-scaling_mode None
-x-prop-underscan off
+x-prop-underscan_hborder 0
+x-prop-underscan_vborder 0
+output DP-6
+crtc 2
+mode 1920x1080
+pos 3842x0
+rate 60.00
+x-prop-non_desktop 0
+x-prop-scaling_mode None
 x-prop-underscan_hborder 0
 x-prop-underscan_vborder 0
