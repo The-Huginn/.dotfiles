@@ -1,11 +1,11 @@
 *
+!*/
 
-!.gitignore
+!/autorandr/**
+!/i3/**
+!/ranger/**
+!/tmux/**
 
-!autorandr
-!i3
-!ranger
-!tmux
-!JetBrains/*/keymaps/*
-!JetBrains/*/options
-!JetBrains/*/options/
+!/JetBrains/IntelliJIdea2024.2/options/**
+!/JetBrains/IntelliJIdea2024.2/keymaps/**
+

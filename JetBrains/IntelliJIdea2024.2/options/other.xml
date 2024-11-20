@@ -1,0 +1,175 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="licenseId" value="7F3NCWP6KF" />
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Help.KeymapReference" />
+      <option value="GotoDeclarationOnly" />
+      <option value="CWMManageLicense" />
+      <option value="WelcomeScreen.ManageLicense" />
+      <option value="ChangeKeymap" />
+      <option value="ExternalToolsGroup" />
+      <option value="WelcomeScreen.Plugins" />
+    </ids>
+  </component>
+  <component name="AipLicense">
+    <option name="licenseId" value="7F3NCWP6KF" />
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;AzureToolkit.WhatsNew&quot;: &quot;3.88.0&quot;,
+    &quot;Beans.split&quot;: &quot;0.65&quot;,
+    &quot;Copy.OpenInEditor&quot;: &quot;true&quot;,
+    &quot;DBE.Default.Dialect&quot;: &quot;PostgreSQL&quot;,
+    &quot;DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.FallbackTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.UrlEncodedTextVisualizer&quot;: &quot;com.intellij.xdebugger.impl.ui.visualizedtext.common.UrlEncodedTextVisualizer&quot;,
+    &quot;FindSplitterProportion&quot;: &quot;0.48247233&quot;,
+    &quot;GradleSupport.showInternalTestNodes&quot;: &quot;false&quot;,
+    &quot;IdeErrorsDialog.LAST_OK_ACTION&quot;: &quot;REPORT_AND_CLEAR_ALL&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;pytho\npython\npyt\npyto\npyton&quot;,
+    &quot;JUnitSupport.hidePassedTests&quot;: &quot;false&quot;,
+    &quot;KEYMAP&quot;: &quot;partial\nimplementation\nrandomn\ngeneration\ncode&quot;,
+    &quot;Kotlin-Was-Debugged&quot;: &quot;335&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;3&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators&quot;: &quot;IU-242.23726.103&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors&quot;: &quot;IU-242.23726.103&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;azure\nazure storage\nazure s\na\nai assistant&quot;,
+    &quot;MemberChooser.copyJavadoc&quot;: &quot;false&quot;,
+    &quot;MemberChooser.showClasses&quot;: &quot;true&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;RunOnceActivity.Run Grazie Token Refresher&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.java.code.vision.default.position.was.set&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/home/huginn/.local/share/JetBrains/IntelliJIdea2024.2/Shell Script/shellcheck&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;anno\nvertical\nscroll\nscroll o\nexternal tools&quot;,
+    &quot;SqlStructureView.filterD.file.structure.state&quot;: &quot;true&quot;,
+    &quot;UltimateProfiler.RunWidget.Splitter.Proportion.Run&quot;: &quot;0.7546246&quot;,
+    &quot;Vcs.Log.Text.Filter.History&quot;: &quot;5fdb5ba544c6f4c2fc3b623b7f1e3bf34e2deb62\nDOK-29199&quot;,
+    &quot;WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN&quot;: &quot;true&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;build.toolwindow.Build Output.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.run.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion&quot;: &quot;0.5&quot;,
+    &quot;com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor&quot;: &quot;Sources&quot;,
+    &quot;debugger.smart.chooser.counter&quot;: &quot;3&quot;,
+    &quot;debugger.speed.search.tree.option.hint.counter&quot;: &quot;1&quot;,
+    &quot;decompiler.legal.notice.accepted&quot;: &quot;true&quot;,
+    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
+    &quot;enter_selection_count&quot;: &quot;5&quot;,
+    &quot;evlsprt3.241&quot;: &quot;7&quot;,
+    &quot;evlsprt3.242&quot;: &quot;5&quot;,
+    &quot;exception.accepted.notices&quot;: &quot;:d4a3ab85&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;242.23726.103&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;17&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;7&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;got.it.tooltip.azure.guidance.more.samples&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.database.schema.control.got.it&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.extract.method.gotit.navigate&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.new.terminal.promotion&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.new.terminal.promotion.242&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.speed.search.shown&quot;: &quot;1&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;ide.try.ultimate.disabled&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;242.23726.103-IJ&quot;,
+    &quot;kotlin.code.style.migration.dialog.show.count&quot;: &quot;1&quot;,
+    &quot;kotlin.lastUpdateCheck&quot;: &quot;1731850157793&quot;,
+    &quot;last.imported.location&quot;: &quot;/home/huginn/rixo/rixo-financials&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/huginn/rixo/rixo-jaachym2-fe&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;AI_ASSISTANT&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IU-242.23726.103&quot;,
+    &quot;settings.code.style.selected.tab.EditorConfig&quot;: &quot;Wrapping and Braces&quot;,
+    &quot;settings.code.style.selected.tab.JAVA&quot;: &quot;Wrapping and Braces&quot;,
+    &quot;settings.code.style.selected.tab.kotlin&quot;: &quot;Wrapping and Braces&quot;,
+    &quot;toolwindow.showToolWindowsNames.ts&quot;: &quot;2024-08-07T10:19:10.869304923&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;5.4.3&quot;,
+    &quot;vcs.log.details.splitter.proportion&quot;: &quot;0.8480392&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;azure.advertised_services&quot;: [
+      &quot;Microsoft.Cache&quot;,
+      &quot;Microsoft.Storage&quot;
+    ],
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/huginn/vut/2024-winter/sco/bulletproofs-composite&quot;,
+      &quot;/home/huginn/vut/2024-winter/bio/bio-proj&quot;,
+      &quot;/home/huginn/rixo/rixo-file-storage&quot;,
+      &quot;/home/huginn/rixo/rixo-codebooks&quot;,
+      &quot;/home/huginn/rixo/rixo-contracts&quot;,
+      &quot;/home/huginn/rixo/rixo-customer-rewards&quot;,
+      &quot;/home/huginn/rixo/rixo-klappka-be&quot;,
+      &quot;/home/huginn/rixo/rixo-offers&quot;,
+      &quot;/home/huginn/rixo/rixo-zeteo-bridge&quot;,
+      &quot;/home/huginn/rixo/rixo-financials&quot;,
+      &quot;/home/huginn/rixo/rixo-oauth-server&quot;,
+      &quot;/home/huginn/rixo/rixo-insurance-bridge-sk&quot;,
+      &quot;/home/huginn/vut/2024-winter/pdb/woltora/influx-db-dev-service-extension&quot;,
+      &quot;/home/huginn/rixo/rixo-energy-bridge&quot;,
+      &quot;/home/huginn/vut/2024-winter/pdb/woltora&quot;,
+      &quot;/home/huginn/rixo/rixo-product-catalog&quot;,
+      &quot;/home/huginn/rixo/rixo-calc-index&quot;,
+      &quot;/home/huginn/rixo/rixo-commons&quot;,
+      &quot;/home/huginn/vut/2024-winter/sco/bulletproofs-gadgets&quot;,
+      &quot;/home/huginn/vut/2024-winter/sco/bulletproofs&quot;,
+      &quot;/home/huginn/vut/2024-winter/sco/zkp-api&quot;,
+      &quot;/home/huginn/vut/2024-winter/sco&quot;,
+      &quot;/home/huginn/vut/2024-winter/sco/keccakj&quot;,
+      &quot;/home/huginn/rixo/rixo-external-api&quot;,
+      &quot;/home/huginn/rixo/rixo-sf-bridge&quot;,
+      &quot;/home/huginn/rixo/rixo-jaachym2-fe&quot;,
+      &quot;/usr/bin/libreoffice&quot;,
+      &quot;/home/huginn/settings.zip&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="influx-db-dev-service-extension-history" project-path="/home/huginn/vut/2024-winter/pdb/woltora/influx-db-dev-service-extension" last-access-time="1730648440322" />
+      <command-history-file filename="rixo-contracts-history1" project-path="/home/huginn/rixo/rixo-contracts" last-access-time="1731601158757" />
+      <command-history-file filename="rixo-klappka-be-history" project-path="/home/huginn/rixo/rixo-klappka-be" last-access-time="1731409838863" />
+      <command-history-file filename="bulletproofs-composite-history1" project-path="/home/huginn/vut/2024-winter/sco/bulletproofs-composite" last-access-time="1732006908972" />
+      <command-history-file filename="rixo-file-storage-history" project-path="/home/huginn/rixo/rixo-file-storage" last-access-time="1731660374146" />
+      <command-history-file filename="woltora-history" project-path="/home/huginn/vut/2024-winter/pdb/woltora" last-access-time="1731409361846" />
+      <command-history-file filename="rixo-oauth-server-history1" project-path="/home/huginn/rixo/rixo-oauth-server" last-access-time="1731409281220" />
+      <command-history-file filename="rixo-commons-history" project-path="/home/huginn/rixo/rixo-commons" last-access-time="1730360471935" />
+      <command-history-file filename="rixo-insurance-bridge-sk-history1" project-path="/home/huginn/rixo/rixo-insurance-bridge-sk" last-access-time="1730795368695" />
+      <command-history-file filename="rixo-offers-history" project-path="/home/huginn/rixo/rixo-offers" last-access-time="1731595458344" />
+      <command-history-file filename="rixo-customer-rewards-history1" project-path="/home/huginn/rixo/rixo-customer-rewards" last-access-time="1731578975366" />
+      <command-history-file filename="bio-proj-history1" project-path="/home/huginn/vut/2024-winter/bio/bio-proj" last-access-time="1731754647111" />
+      <command-history-file filename="rixo-codebooks-history1" project-path="/home/huginn/rixo/rixo-codebooks" last-access-time="1730451759727" />
+      <command-history-file filename="rixo-customer-rewards-history" project-path="/home/huginn/rixo/rixo-customer-rewards" last-access-time="1731572587034" />
+      <command-history-file filename="rixo-product-catalog-history" project-path="/home/huginn/rixo/rixo-product-catalog" last-access-time="1730461821983" />
+      <command-history-file filename="bulletproofs-history" project-path="/home/huginn/vut/2024-winter/sco/bulletproofs" last-access-time="1731850437211" />
+    </command-history-files>
+  </component>
+</application>
