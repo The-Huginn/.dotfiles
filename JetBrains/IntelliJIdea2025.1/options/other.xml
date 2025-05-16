@@ -1,0 +1,217 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="licenseId" value="7U5AWS0HFC" />
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Help.KeymapReference" />
+      <option value="GotoDeclarationOnly" />
+      <option value="CWMManageLicense" />
+      <option value="WelcomeScreen.ManageLicense" />
+      <option value="ChangeKeymap" />
+      <option value="ExternalToolsGroup" />
+      <option value="Maven.AddManagedFiles" />
+      <option value="SearchEverywhereActions" />
+      <option value="CheckForUpdate" />
+      <option value="WelcomeScreen.Plugins" />
+      <option value="ActivateGradleToolWindow" />
+      <option value="Gradle.ExecuteTask" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AIHubNotificationManager.lastUsedLicenseType": "PRO",
+    "AzureToolkit.WhatsNew": "3.88.0",
+    "BLOCK_TERMINAL_LAST_USED_DATE": "1745841614",
+    "BLOCK_TERMINAL_LAST_USED_VERSION": "251.23774.435",
+    "Beans.split": "0.65",
+    "BuildView.Splitter.Proportion": "0.304769",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.7527675",
+    "Copy.OpenInEditor": "true",
+    "DBE.Default.Dialect": "PostgreSQL",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.FallbackTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.UrlEncodedTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.UrlEncodedTextVisualizer",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.RawTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer",
+    "FindSplitterProportion": "0.48247233",
+    "GradleSupport.showInternalTestNodes": "false",
+    "Grazie.Professional.Advertisement.Invoked": "2",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "jun\nju\nj\nsync gra\nideavi",
+    "JUnitSupport.hidePassedTests": "false",
+    "KEYMAP": "insert inlin\ngenerate code\nbreakpoin\ntoggle bre\ndebug",
+    "Kotlin-Was-Debugged": "797",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-251.23774.435",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-251.23774.435",
+    "Markdown Split EditorLayout": "Editor only",
+    "MarketplacePluginsSearchHistory": "/suggested\njunie\njun\npython\nconststring",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.gitState": "true",
+    "NewProjectWizard.groupIdState": "cz.rixo",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.Run Grazie Token Refresher": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "RunOnceActivity.llm.onboarding.window.launcher.v7": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "SHELLCHECK.PATH": "",
+    "SettingsSearchHistory": "ask\ngit\njdk\nideavi\ndebug",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "UltimateProfiler.RunWidget.Splitter.Proportion.Run": "0.7546246",
+    "Vcs.Log.Text.Filter.History": "dok-28366\ndok-28365\n5fdb5ba544c6f4c2fc3b623b7f1e3bf34e2deb62\nDOK-29199",
+    "WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN": "true",
+    "ai.assistant.inline.prompt.detector.used": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "database.data.extractors.output.dir": "/home/huginn/rixo/scripts/codebooks/life",
+    "database.notebook.setting.id": "4aa5f967-2ff8-46e3-aa8d-0668136f18d3",
+    "debugger.smart.chooser.counter": "3",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.241": "7",
+    "evlsprt3.242": "5",
+    "evlsprt3.243": "7",
+    "evlsprt3.251": "6",
+    "exception.accepted.notices": ":d4a3ab85",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.23774.435",
+    "file.gist.reindex.count": "33",
+    "fileTypeChangedCounter": "7",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.azure.guidance.more.samples": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.extract.method.gotit.navigate": "1",
+    "got.it.tooltip.llm.vcs.shelve.title.generation.tooltip": "1",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "ide.memory.adjusted": "true",
+    "ide.try.ultimate.disabled": "true",
+    "ideavim.statistics.timestamp": "1747206659327",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "251.23774.435-IJ",
+    "jdk.selected.JAVA_MODULE": "21",
+    "junie.showOnboardingTips": "false",
+    "kotlin.code.style.migration.dialog.show.count": "1",
+    "kotlin.lastUpdateCheck": "1747206653961",
+    "kotlin.updates.whats.new.shown.for": "2.1.10",
+    "last.imported.location": "/home/huginn/rixo/rixo-financials",
+    "last.used.gradle.home": "/home/huginn/.sdkman/candidates/gradle/current",
+    "last_opened_file_path": "/home/huginn/rixo/rixo-insurance-bridge",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "AI_ASSISTANT",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "SpringInitializr",
+    "registry.to.advanced.settings.migration.build": "IU-251.23774.435",
+    "settings.code.style.selected.tab.EditorConfig": "Wrapping and Braces",
+    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces",
+    "settings.code.style.selected.tab.kotlin": "Wrapping and Braces",
+    "terminal.gen.one.option.visible": "false",
+    "toolwindow.showToolWindowsNames.ts": "2024-08-07T10:19:10.869304923",
+    "ts.lib.d.ts.version": "5.6.3",
+    "vcs.log.details.splitter.proportion": "0.8480392"
+  },
+  "keyToStringList": {
+    "AIHubNotificationManager.lastAllNotifications": [],
+    "AIHubNotificationManager.notifications": [
+      "PRO_EXPIRING"
+    ],
+    "AIHubNotificationManager.seenNotifications": [
+      "PRO_EXPIRING"
+    ],
+    "azure.advertised_services": [
+      "Microsoft.Cache",
+      "Microsoft.Storage"
+    ],
+    "file.chooser.recent.files": [
+      "/home/huginn/rixo/rixo-oauth-server",
+      "/home/huginn/rixo/rixo-financials",
+      "/home/huginn/rixo/rixo-calc-index",
+      "/home/huginn/rixo/rixo-offers",
+      "/home/huginn/rixo/rixo-insurance-bridge",
+      "/home/huginn/rixo/rixo-insurance-bridge-sk",
+      "/home/huginn/rixo/rixo-energy-bridge",
+      "/home/huginn/rixo/rixo-contracts",
+      "/home/huginn/rixo/rixo-commons",
+      "/home/huginn/rixo/rixo-file-storage",
+      "/home/huginn/rixo/pdffiller.txt",
+      "/home/huginn/rixo/rixo-sf-bridge",
+      "/home/huginn/rixo/rixo-product-catalog",
+      "/home/huginn/rixo/rixo-codebooks",
+      "/home/huginn/rixo/scripts/codebooks/life",
+      "/home/huginn/rixo/rixo-klappka-be",
+      "/home/huginn/rixo/rixo_pgpass.sh",
+      "/home/huginn/rixo/rixo-commons-test",
+      "/home/huginn/rixo/rixo-ai",
+      "/home/huginn/rixo/drools-tester",
+      "/home/huginn/rixo/pdffiller-email.txt",
+      "/home/huginn/rixo/rixo-loan-bridge",
+      "/home/huginn/rixo/rixo-customer-rewards",
+      "/home/huginn/rixo/rixo-oauth-resource-server-config",
+      "/home/huginn/.sdkman/candidates/java/21.0.6-oracle",
+      "/home/huginn/rixo/rixo-common-web",
+      "/home/huginn/revnoa/bifrost/ib_python/venv/bin/python3.12",
+      "/home/huginn/rixo/rixo-ai/venv/bin/python3.12",
+      "/home/huginn/revnoa/bifrost/ib_python/venv",
+      "/home/huginn/revnoa/ratatoskr"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="rixo-sf-bridge-history1" project-path="/home/huginn/rixo/rixo-sf-bridge" last-access-time="1745917929750" />
+      <command-history-file filename="rixo-oauth-server-history" project-path="/home/huginn/rixo/rixo-oauth-server" last-access-time="1747290085922" />
+      <command-history-file filename="rixo-file-storage-history" project-path="$USER_HOME$/rixo/rixo-file-storage" last-access-time="1745569501809" />
+      <command-history-file filename="rixo-insurance-bridge-history" project-path="$USER_HOME$/rixo/rixo-insurance-bridge" last-access-time="1745499607864" />
+      <command-history-file filename="rixo-commons-history" project-path="/home/huginn/rixo/rixo-commons" last-access-time="1746196307250" />
+      <command-history-file filename="rixo-insurance-bridge-history1" project-path="/home/huginn/rixo/rixo-insurance-bridge" last-access-time="1747219027272" />
+      <command-history-file filename="rixo-offers-history" project-path="$USER_HOME$/rixo/rixo-offers" last-access-time="1745501109386" />
+      <command-history-file filename="rixo-offers-history2" project-path="/home/huginn/rixo/rixo-offers" last-access-time="1746195425887" />
+      <command-history-file filename="rixo-calc-index-history" project-path="/home/huginn/rixo/rixo-calc-index" last-access-time="1747290447073" />
+      <command-history-file filename="rixo-sf-bridge-history" project-path="$USER_HOME$/rixo/rixo-sf-bridge" last-access-time="1745482947949" />
+      <command-history-file filename="rixo-financials-history" project-path="/home/huginn/rixo/rixo-financials" last-access-time="1747227470393" />
+      <command-history-file filename="rixo-file-storage-history1" project-path="/home/huginn/rixo/rixo-file-storage" last-access-time="1746171641105" />
+      <command-history-file filename="rixo-insurance-bridge-sk-history" project-path="/home/huginn/rixo/rixo-insurance-bridge-sk" last-access-time="1747207004201" />
+      <command-history-file filename="rixo-product-catalog-history" project-path="/home/huginn/rixo/rixo-product-catalog" last-access-time="1745910160421" />
+      <command-history-file filename="rixo-energy-bridge-history2" project-path="/home/huginn/rixo/rixo-energy-bridge" last-access-time="1746441558951" />
+    </command-history-files>
+  </component>
+</application>

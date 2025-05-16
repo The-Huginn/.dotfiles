@@ -6,7 +6,7 @@ done
 
 for i in {1..6}; do
     i3-resurrect restore -w $i --programs-only
-    sleep 3
+    sleep 5
     i3-resurrect restore -w $i --layout-only
 done
 

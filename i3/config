@@ -3,7 +3,7 @@
 #
 # Should you change your keyboard layout some time, delete
 # this file and re-run i3-config-wizard(1).
-#
+set $SCRIPTS_DIR ~/scripts/i3
 
 # i3 config file (v4)
 #
@@ -30,7 +30,7 @@ exec --no-startup-id dex-autostart --autostart --environment i3
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock-fancy --nofork
 
-exec --no-startup-id ~/scripts/i3/i3-battery-popup -L 30%
+exec --no-startup-id $SCRIPTS_DIR/i3-battery-popup -L 30%
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec_always --no-startup-id nm-applet
@@ -52,7 +52,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl --min-val=2 -q set 3%-
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q set 3%+
-
+exec_always --no-startup-id brightnessctl s 100%
 
 # Media player controls
 bindsym XF86AudioPlay exec playerctl play-pause
@@ -85,10 +85,10 @@ bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+#bindsym $mod+j focus left
+#bindsym $mod+k focus down
+#bindsym $mod+l focus up
+#bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
 # bindsym $mod+Left focus left
@@ -207,16 +207,16 @@ bindsym $mod+r mode "resize"
 
 ### Custom keybinds ###
 
-# bindsym $mod+grave exec ~/.config/i3/cycle_windows_rofi.sh
 bindsym $mod+grave focus up
 bindsym $mod+Tab focus down
 # bindsym $mod+Mod4+l exec i3lock -t -i ~/Pictures/mountains.png
 exec_always --no-startup-id xmodmap -e "clear mod4"
 exec_always --no-startup-id xmodmap -e "add Mod4 = Super_L"
-bindsym Mod4+l exec ~/scripts/i3/custom_lock.sh
-bindsym Mod4 exec ~/scripts/i3/custom_lock.sh
-bindsym $mod+F3 exec --no-startup-id ~/scripts/i3/bluetooth_connect.sh
-exec_always --no-startup-id ~/scripts/i3/lock.sh
+bindsym Mod4+l exec $SCRIPTS_DIR/custom_lock.sh
+bindsym Mod4 exec $SCRIPTS_DIR/custom_lock.sh
+bindsym $mod+F3 exec --no-startup-id $SCRIPTS_DIR/bluetooth_connect.sh
+bindsym $mod+F7 exec --no-startup-id $SCRIPTS_DIR/custom-autorandr.sh
+exec_always --no-startup-id $SCRIPTS_DIR/lock.sh
 
 bindsym $mod+Shift+Prior  move workspace to output left
 bindsym $mod+Shift+Next move workspace to output right
@@ -236,7 +236,7 @@ mouse_warping none
 workspace_layout stacking
 
 exec_always --no-startup-id feh --bg-fill ~/Pictures/butterfly.jpg
-exec_always --no-startup-id ~/scripts/i3/monitor-switch.sh &
+exec_always --no-startup-id $SCRIPTS_DIR/monitor-switch.sh &
 exec --no-startup-id /usr/libexec/gsd-xsettings
 
 set $i3_resurrect i3-resurrect
@@ -254,7 +254,7 @@ mode "save" {
   bindsym 9 exec "$i3_resurrect save -w 9 --swallow=class,instance,title"
   bindsym 0 exec "$i3_resurrect save -w 10 --swallow=class,instance,title"
 
-  bindsym a exec "~/.config/i3/save_all_workspaces.sh"
+  bindsym a exec $SCRIPTS_DIR/save_all_workspaces.sh
 
   # Back to normal: Enter, Escape, or s
   bindsym Escape mode "default"
@@ -275,7 +275,7 @@ mode "restore" {
   bindsym 9 exec "$i3_resurrect restore -w 9"
   bindsym 0 exec "$i3_resurrect restore -w 10"
 
-  bindsym a exec "~/.config/i3/restore_all_workspaces.sh"
+  bindsym a exec "$SCRIPTS_DIR/restore_all_workspaces.sh"
 
   # Back to normal: Enter, Escape, or n
   bindsym Escape mode "default"

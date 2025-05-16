@@ -1,0 +1,10 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.wiremock" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
+      </list>
+    </option>
+  </component>
+</application>
